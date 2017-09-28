@@ -1,0 +1,4032 @@
+[
+  {
+    "name": "Aberlé Jérémy",
+    "img": "AberleJeremy.jpg",
+    "email": "jeremy.aberle@ecal.ch"
+  },
+  {
+    "name": "Aboulker Clara",
+    "img": "AboulkerClara.jpg",
+    "email": "clara.aboulker@ecal.ch"
+  },
+  {
+    "name": "Abplanalp Sven",
+    "img": "AbplanalpSven.jpg",
+    "email": "sven.abplanalp@ecal.ch"
+  },
+  {
+    "name": "Abrar Anoush",
+    "img": "AbrarAnoush.jpg",
+    "email": "anoush.abrar@ecal.ch"
+  },
+  {
+    "name": "Aceto Alfredo",
+    "img": "Aceto Alfredo.jpg",
+    "email": "alfredo.aceto@ecal.ch"
+  },
+  {
+    "name": "Aeby Marion",
+    "img": "AebyMarion.jpg",
+    "email": "marion.aeby@ecal.ch"
+  },
+  {
+    "name": "Aguirre Bruno Adrien",
+    "img": "AguirreBrunoAdrien.jpg",
+    "email": "bruno.aguirre@ecal.ch"
+  },
+  {
+    "name": "Aik Anaïs",
+    "img": "?",
+    "email": "anais.aik@ecal.ch"
+  },
+  {
+    "name": "Al Zouabi Alfatih",
+    "img": "AlZouabiAlfatih.jpg",
+    "email": "alfatih.al_zouabi@ecal.ch"
+  },
+  {
+    "name": "Al-Saghir Masen",
+    "img": "AlSaghirMasen.jpg",
+    "email": "masen.al-saghir@ecal.ch"
+  },
+  {
+    "name": "Albanese Antonio",
+    "img": "AlbaneseAntonio.jpg",
+    "email": "antonio.albanese@ecal.ch"
+  },
+  {
+    "name": "Alberti Pietro",
+    "img": "AlbertiPietro.jpg",
+    "email": "pietro.alberti@ecal.ch"
+  },
+  {
+    "name": "Albespy Mina",
+    "img": "AlbespyMina.jpg",
+    "email": "mina.albespy@ecal.ch"
+  },
+  {
+    "name": "Allain-Longval Pierre",
+    "img": "ALLAINLONGVALPIERRE.jpg",
+    "email": "pierre.allain-longval@ecal.ch"
+  },
+  {
+    "name": "Allenspach Sonja",
+    "img": "ALLENSPACHSONJA.jpg",
+    "email": "sonja.allenspach@ecal.ch"
+  },
+  {
+    "name": "Alonso Tomas",
+    "img": "?",
+    "email": "tomas.alonso@ecal.ch"
+  },
+  {
+    "name": "Amara Marjane",
+    "img": "AmaraMarjane.jpg",
+    "email": "marjane.amara@ecal.ch"
+  },
+  {
+    "name": "Ambrosetti Tonatiúh",
+    "img": "AmbrosettiTonatiuh.jpg",
+    "email": "tonatiuh.ambrosetti@ecal.ch"
+  },
+  {
+    "name": "Ammann Cynthia",
+    "img": "AmmannCynthia.jpg",
+    "email": "cynthia.ammann@ecal.ch"
+  },
+  {
+    "name": "Amoser Florian Sebastian",
+    "img": "AmoserFlorian.jpg",
+    "email": "florian.amoser@ecal.ch"
+  },
+  {
+    "name": "Amrein Noemi",
+    "img": "AmreinNoemi.jpg",
+    "email": "noemi.amrein@ecal.ch"
+  },
+  {
+    "name": "Andrade André",
+    "img": "AndradeAndre.jpg",
+    "email": "andre.andrade@ecal.ch"
+  },
+  {
+    "name": "Andrié Luc",
+    "img": "AndrieLuc.jpg",
+    "email": "luc.andrie@ecal.ch"
+  },
+  {
+    "name": "Anstett Adèle",
+    "img": "?",
+    "email": "adele.anstett@ecal.ch"
+  },
+  {
+    "name": "Antoine-Schumann Cosima",
+    "img": "ANTOINESCHUMANNCOSIMA.jpg",
+    "email": "cosima.antoine-schumann@ecal.ch"
+  },
+  {
+    "name": "Arbenz Carole",
+    "img": "ARBENZCAROLE.jpg",
+    "email": "carole.arbenz@ecal.ch"
+  },
+  {
+    "name": "Ardaine Faustine",
+    "img": "ArdaineFaustine.jpg",
+    "email": "faustine.ardaine@ecal.ch"
+  },
+  {
+    "name": "Armand Marvin",
+    "img": "?",
+    "email": "marvin.armand@ecal.ch"
+  },
+  {
+    "name": "Arnaud Julie",
+    "img": "ArnaudJulie.jpg",
+    "email": "julie.arnaud@ecal.ch"
+  },
+  {
+    "name": "Atakurt Selim",
+    "img": "AtakurtSelim.jpg",
+    "email": "selim.atakurt@ecal.ch"
+  },
+  {
+    "name": "Aubort Luc",
+    "img": "AubortLuc.jpg",
+    "email": "luc.aubort@ecal.ch"
+  },
+  {
+    "name": "Augay Maxime",
+    "img": "AugayMaxime.jpg",
+    "email": "maxime.augay@ecal.ch"
+  },
+  {
+    "name": "Auvry Gwenaëlle",
+    "img": "AuvryGwenaelle.jpg",
+    "email": "gwenaelle.auvry@ecal.ch"
+  },
+  {
+    "name": "Avogadro Mathilde",
+    "img": "AvogadroMathilde.jpg",
+    "email": "mathilde.avogadro@ecal.ch"
+  },
+  {
+    "name": "Azemi Djellza",
+    "img": "AzemiDjellza.jpg",
+    "email": "djellza.azemi@ecal.ch"
+  },
+  {
+    "name": "Azzolini Leonardo",
+    "img": "AzzoliniLeonardo.jpg",
+    "email": "leonardo.azzolini@ecal.ch"
+  },
+  {
+    "name": "Bae Byongseon",
+    "img": "BaeByongseon.jpg",
+    "email": "byongseon.bae@ecal.ch"
+  },
+  {
+    "name": "Baeriswyl Guillaume",
+    "img": "BaeriswylGuillaume.jpg",
+    "email": "guillaume.baeriswyl@ecal.ch"
+  },
+  {
+    "name": "Baiao Ana",
+    "img": "BaiaoAna.jpg",
+    "email": "ana.baiao@ecal.ch"
+  },
+  {
+    "name": "Baier Lionel",
+    "img": "BaierLionel.jpg",
+    "email": "lionel.baier@ecal.ch"
+  },
+  {
+    "name": "Balan Ana-Francesca",
+    "img": "BalanAnaFrancesca.jpg",
+    "email": "ana-francesca.balan@ecal.ch"
+  },
+  {
+    "name": "Baldinetti Pauline",
+    "img": "?",
+    "email": "pauline.baldinetti@ecal.ch"
+  },
+  {
+    "name": "Baldé Mariama",
+    "img": "BaldeMariama.jpg",
+    "email": "mariama.balde@ecal.ch"
+  },
+  {
+    "name": "Balgiu Alexandru",
+    "img": "BalgiuAlexandru.jpg",
+    "email": "alexandru.balgiu@ecal.ch"
+  },
+  {
+    "name": "Banchi Margherita",
+    "img": "BanchiMargherita.jpg",
+    "email": "margherita.banchi@ecal.ch"
+  },
+  {
+    "name": "Baraness Nathan",
+    "img": "BARANESSNATHAN.jpg",
+    "email": "nathan.baraness@ecal.ch"
+  },
+  {
+    "name": "Barbattini Angelo",
+    "img": "?",
+    "email": "angelo.barbattini@ecal.ch"
+  },
+  {
+    "name": "Barbon Federico",
+    "img": "BarbonFederico.jpg",
+    "email": "federico.barbon@ecal.ch"
+  },
+  {
+    "name": "Barras Antoine",
+    "img": "BarrasAntoine.jpg",
+    "email": "antoine.barras@ecal.ch"
+  },
+  {
+    "name": "Barraud Théo",
+    "img": "BarraudTheo.jpg",
+    "email": "theo.barraud@ecal.ch"
+  },
+  {
+    "name": "Barresi Giulio",
+    "img": "BARRESIGIULIO.jpg",
+    "email": "giulio.barresi@ecal.ch"
+  },
+  {
+    "name": "Barrionuevo Inès",
+    "img": "?",
+    "email": "ines.barrionuevo@ecal.ch"
+  },
+  {
+    "name": "Battipaglia Emidio",
+    "img": "BattipagliaEmidio.jpg",
+    "email": "emidio.battipaglia@ecal.ch"
+  },
+  {
+    "name": "Baud Manfred-Gordon",
+    "img": "BaudManfredGordon.jpg",
+    "email": "manfred-gordon.baud@ecal.ch"
+  },
+  {
+    "name": "Baudevin Francis",
+    "img": "BaudevinFrancis.jpg",
+    "email": "francis.baudevin@ecal.ch"
+  },
+  {
+    "name": "Baudraz Isabelle",
+    "img": "BaudrazIsabelle.jpg",
+    "email": "isabelle.baudraz@ecal.ch"
+  },
+  {
+    "name": "Bays Sidonie",
+    "img": "BaysSidonie.jpg",
+    "email": "sidonie.bays@ecal.ch"
+  },
+  {
+    "name": "Beaud Maxime",
+    "img": "BeaudMaxime.jpg",
+    "email": "maxime.beaud@ecal.ch"
+  },
+  {
+    "name": "Beaulieu Adèle",
+    "img": "BeaulieuAdele.jpg",
+    "email": "adele.beaulieu@ecal.ch"
+  },
+  {
+    "name": "Becheras Diane",
+    "img": "BecherasDiane.jpg",
+    "email": "diane.becheras@ecal.ch"
+  },
+  {
+    "name": "Beer Eva-Maria",
+    "img": "BeerEvaMaria.jpg",
+    "email": "eva-maria.beer@ecal.ch"
+  },
+  {
+    "name": "Bellet Alain",
+    "img": "BelletAlain.jpg",
+    "email": "alain.bellet@ecal.ch"
+  },
+  {
+    "name": "Bellier Maya",
+    "img": "BellierMaya0026.jpg",
+    "email": "maya.bellier@ecal.ch"
+  },
+  {
+    "name": "Bellon Pablo",
+    "img": "BellonPablo0035.jpg",
+    "email": "pablo.bellon@ecal.ch"
+  },
+  {
+    "name": "Belossi Giovanna",
+    "img": "BELOSSIGIOVANNA.jpg",
+    "email": "giovanna.belossi@ecal.ch"
+  },
+  {
+    "name": "Ben Khalifa Elias",
+    "img": "?",
+    "email": "elias.ben_khalifa@ecal.ch"
+  },
+  {
+    "name": "Benazet Juliette",
+    "img": "BenazetJuliette.jpg",
+    "email": "juliette.benazet@ecal.ch"
+  },
+  {
+    "name": "Benedetto Angelo",
+    "img": "BenedettoAngelo.jpg",
+    "email": "angelo.benedetto@ecal.ch"
+  },
+  {
+    "name": "Benhadj Sami",
+    "img": "BenhadjSami.jpg",
+    "email": "sami.benhadj@ecal.ch"
+  },
+  {
+    "name": "Benito Py David",
+    "img": "?",
+    "email": "david.benito_py@ecal.ch"
+  },
+  {
+    "name": "Benoit Pierre",
+    "img": "BenoitPierre.jpg",
+    "email": "pierre.benoit@ecal.ch"
+  },
+  {
+    "name": "Bergeron Luc",
+    "img": "BergeronLuc.jpg",
+    "email": "luc.bergeron@ecal.ch"
+  },
+  {
+    "name": "Bernasconi Lisa",
+    "img": "BernasconiLisa.jpg",
+    "email": "lisa.bernasconi@ecal.ch"
+  },
+  {
+    "name": "Bernau Kai",
+    "img": "BernauKai.jpg",
+    "email": "kai.bernau@ecal.ch"
+  },
+  {
+    "name": "Berthod Borcard Anaïs T. A.",
+    "img": "BerthodAnais.jpg",
+    "email": "anais.berthod@ecal.ch"
+  },
+  {
+    "name": "Berthod Borcard Anaïs T. A.",
+    "img": "BerthodAnais.jpg",
+    "email": "anais.berthod@ecal.ch"
+  },
+  {
+    "name": "Berthod Jonas Théo Orient",
+    "img": "BerthodJonasTheoOrient.jpg",
+    "email": "jonas.berthod@ecal.ch"
+  },
+  {
+    "name": "Bertière Clara",
+    "img": "BertiereClara.jpg",
+    "email": "clara.bertiere@ecal.ch"
+  },
+  {
+    "name": "Bertoncini Anne",
+    "img": "BertonciniAnne.jpg",
+    "email": "anne.bertoncini@ecal.ch"
+  },
+  {
+    "name": "Besson Guillaume",
+    "img": "?",
+    "email": "guillaume.besson@ecal.ch"
+  },
+  {
+    "name": "Bettua Clelia",
+    "img": "BettuaClelia.jpg",
+    "email": "clelia.bettua@ecal.ch"
+  },
+  {
+    "name": "Beytrison Brandon",
+    "img": "BEYTRISONBrandon.jpg",
+    "email": "brandon.beytrison@ecal.ch"
+  },
+  {
+    "name": "Bezençon Axel",
+    "img": "?",
+    "email": "axel.bezencon@ecal.ch"
+  },
+  {
+    "name": "Bigler Marina",
+    "img": "BiglerMarina.jpg",
+    "email": "marina.bigler@ecal.ch"
+  },
+  {
+    "name": "Bisseck Iyo",
+    "img": "BisseckIyo.jpg",
+    "email": "iyo.bisseck@ecal.ch"
+  },
+  {
+    "name": "Björndahl Vilhelm",
+    "img": "BjorndahlVilhelm.jpg",
+    "email": "vilhelm.bjorndahl@ecal.ch"
+  },
+  {
+    "name": "Blanc Tamara",
+    "img": "BLANCTAMARA.jpg",
+    "email": "tamara.blanc@ecal.ch"
+  },
+  {
+    "name": "Blanchard Théo",
+    "img": "BlanchardTheo.jpg",
+    "email": "theo.blanchard@ecal.ch"
+  },
+  {
+    "name": "Blaschke Estelle",
+    "img": "?",
+    "email": "estelle.blaschke@ecal.ch"
+  },
+  {
+    "name": "Blatter Jeanne",
+    "img": "BlatterJeanne.jpg",
+    "email": "jeanne.blatter@ecal.ch"
+  },
+  {
+    "name": "Blin Camille",
+    "img": "BlinCamille.jpg",
+    "email": "camille.blin@ecal.ch"
+  },
+  {
+    "name": "Bloch Harry",
+    "img": "BlochHarry.jpg",
+    "email": "harry.bloch@ecal.ch"
+  },
+  {
+    "name": "Bloch Jonathan",
+    "img": "BlochJonathan.jpg",
+    "email": "jonathan.bloch@ecal.ch"
+  },
+  {
+    "name": "Bolzoni Alessandro",
+    "img": "BolzoniAlessandro.jpg",
+    "email": "sandro.bolzoni@ecal.ch"
+  },
+  {
+    "name": "Bonaglia Myriam",
+    "img": "BONAGLIAMYRIAM.jpg",
+    "email": "myriam.bonaglia@ecal.ch"
+  },
+  {
+    "name": "Bonami Aurore",
+    "img": "BonamiAurore.jpg",
+    "email": "aurore.bonami@ecal.ch"
+  },
+  {
+    "name": "Bonini Daniele",
+    "img": "BoniniDaniele.jpg",
+    "email": "daniele.bonini@ecal.ch"
+  },
+  {
+    "name": "Bonnaz Martin",
+    "img": "BonnazMartin.jpg",
+    "email": "martin.bonnaz@ecal.ch"
+  },
+  {
+    "name": "Bontognali Diego",
+    "img": "BontognaliDiego.jpg",
+    "email": "diego.bontognali@ecal.ch"
+  },
+  {
+    "name": "Bonvallat Léa",
+    "img": "BonvallatLea.jpg",
+    "email": "lea.bonvallat@ecal.ch"
+  },
+  {
+    "name": "Bonvin Laurence",
+    "img": "BonvinLaurence.jpg",
+    "email": "laurence.bonvin@ecal.ch"
+  },
+  {
+    "name": "Bonvin Michel",
+    "img": "BonvinMIchel.jpg",
+    "email": "michel.bonvin@ecal.ch"
+  },
+  {
+    "name": "Borgeaud Nathalie",
+    "img": "BorgeaudNathalie.jpg",
+    "email": "nathalie.borgeaud@ecal.ch"
+  },
+  {
+    "name": "Bouchet Emilie",
+    "img": "BouchetEmilie.jpg",
+    "email": "emilie.bouchet@ecal.ch"
+  },
+  {
+    "name": "Boulaert Jules",
+    "img": "BoulaertJules.jpg",
+    "email": "jules.boulaert@ecal.ch"
+  },
+  {
+    "name": "Boulenaz Jonathan",
+    "img": "BoulenazJonathan.jpg",
+    "email": "jonathan.boulenaz@ecal.ch"
+  },
+  {
+    "name": "Bourcelot Maëwenn",
+    "img": "BourcelotMaewenn.jpg",
+    "email": "maewenn.bourcelot@ecal.ch"
+  },
+  {
+    "name": "Bourgeois Nicolas",
+    "img": "BourgeoisNicolas.jpg",
+    "email": "nicolas.bourgeois@ecal.ch"
+  },
+  {
+    "name": "Bouroullec Ronan",
+    "img": "?",
+    "email": "ronan.bouroullec@ecal.ch"
+  },
+  {
+    "name": "Bovay Améthyste",
+    "img": "BovayAmethyste.jpg",
+    "email": "amethyste.bovay@ecal.ch"
+  },
+  {
+    "name": "Bovet Fanny-Laure",
+    "img": "BovetFannyLaure.jpg",
+    "email": "fanny-laure.bovet@ecal.ch"
+  },
+  {
+    "name": "Bovier François",
+    "img": "BovierFrancois.jpg",
+    "email": "francois.bovier@ecal.ch"
+  },
+  {
+    "name": "Bredstrup Malte Bentzen",
+    "img": "BredstrupMalte.jpg",
+    "email": "malte.bredstrup@ecal.ch"
+  },
+  {
+    "name": "Breithaupt Kevin",
+    "img": "BREITHAUPTKEVIN.jpg",
+    "email": "kevin.breithaupt@ecal.ch"
+  },
+  {
+    "name": "Breuer Johannes Valentin",
+    "img": "BreuerJohannesValentin.jpg",
+    "email": "johannes.breuer@ecal.ch"
+  },
+  {
+    "name": "Brianza Michele",
+    "img": "BRIANZAMICHELE.jpg",
+    "email": "michele.brianza@ecal.ch"
+  },
+  {
+    "name": "Brocart Pauline",
+    "img": "BrocartPauline.jpg",
+    "email": "pauline.brocart@ecal.ch"
+  },
+  {
+    "name": "Brulé Alexandre",
+    "img": "?",
+    "email": "alexandre.brule@ecal.ch"
+  },
+  {
+    "name": "Brunisholz Alexandre",
+    "img": "?",
+    "email": "alexandre.brunisholz@ecal.ch"
+  },
+  {
+    "name": "Brunnberg Maïva",
+    "img": "?",
+    "email": "maiva.brunnberg@ecal.ch"
+  },
+  {
+    "name": "Brunner Thilo Alex",
+    "img": "BrunnerThiloAlex.jpg",
+    "email": "thiloalex.brunner@ecal.ch"
+  },
+  {
+    "name": "Brügger Mathias",
+    "img": "BruggerMathias.jpg",
+    "email": "mathias.brugger@ecal.ch"
+  },
+  {
+    "name": "Bucher Benjamin",
+    "img": "BUCHERBENJAMIN.jpg",
+    "email": "benjamin.bucher@ecal.ch"
+  },
+  {
+    "name": "Bulliard Mathias",
+    "img": "BulliardMathias.jpg",
+    "email": "mathias.bulliard@ecal.ch"
+  },
+  {
+    "name": "Bussioz Bérengère",
+    "img": "BussiozBerengere.jpg",
+    "email": "berengere.bussioz@ecal.ch"
+  },
+  {
+    "name": "Buytaert Clémence",
+    "img": "BuytaertClemence.jpg",
+    "email": "clemence.buytaert@ecal.ch"
+  },
+  {
+    "name": "Báchor Ondrej",
+    "img": "BachorOndrej.jpg",
+    "email": "ondrej.bachor@ecal.ch"
+  },
+  {
+    "name": "Béguin Jonas",
+    "img": "BeguinJonas.jpg",
+    "email": "jonas.beguin@ecal.ch"
+  },
+  {
+    "name": "Bétin Louis",
+    "img": "BetinLous.jpg",
+    "email": "louis.betin@ecal.ch"
+  },
+  {
+    "name": "Cabitza Moreno",
+    "img": "CabitzaMoreno.jpg",
+    "email": "moreno.cabitza@ecal.ch"
+  },
+  {
+    "name": "Cadena Jorge",
+    "img": "CadenaJorge.jpg",
+    "email": "jorge.cadena@ecal.ch"
+  },
+  {
+    "name": "Calixto Helder",
+    "img": "CalixtoHelder.jpg",
+    "email": "helder.calixto@ecal.ch"
+  },
+  {
+    "name": "Callewaert Jenna",
+    "img": "CallewaertJenna.jpg",
+    "email": "jenna.callewaert@ecal.ch"
+  },
+  {
+    "name": "Camporota Gianni",
+    "img": "CamporotaGianni.jpg",
+    "email": "gianni.camporota@ecal.ch"
+  },
+  {
+    "name": "Cardillo Fabio",
+    "img": "CardilloFabio.jpg",
+    "email": "fabio.cardillo@ecal.ch"
+  },
+  {
+    "name": "Carlier Loucia",
+    "img": "CarlierLoucia.jpg",
+    "email": "loucia.carlier@ecal.ch"
+  },
+  {
+    "name": "Carlier Matias",
+    "img": "?",
+    "email": "matias.carlier@ecal.ch"
+  },
+  {
+    "name": "Carlier Morgan",
+    "img": "CarlierMorgan.jpg",
+    "email": "morgan.carlier@ecal.ch"
+  },
+  {
+    "name": "Carlotti Stefania",
+    "img": "?",
+    "email": "stefania.carlotti@ecal.ch"
+  },
+  {
+    "name": "Caron Julia",
+    "img": "CaronJulia.jpg",
+    "email": "julia.caron@ecal.ch"
+  },
+  {
+    "name": "Carraz Esther",
+    "img": "?",
+    "email": "esther.carraz@ecal.ch"
+  },
+  {
+    "name": "Carrié Valentin",
+    "img": "CarrieValentin.jpg",
+    "email": "valentin.carrie@ecal.ch"
+  },
+  {
+    "name": "Carron Valentin",
+    "img": "CarronValentin.jpg",
+    "email": "valentin.carron@ecal.ch"
+  },
+  {
+    "name": "Casasnovas Dylan",
+    "img": "CasasnovasDylan.jpg",
+    "email": "dylan.casasnovas@ecal.ch"
+  },
+  {
+    "name": "Cavicchioli Sara",
+    "img": "CavicchioliSara.jpg",
+    "email": "sara.cavicchioli@ecal.ch"
+  },
+  {
+    "name": "Celikovic Jasmina",
+    "img": "CELIKOVICJASMINA.jpg",
+    "email": "jasmina.celikovic@ecal.ch"
+  },
+  {
+    "name": "Chabloz Christian",
+    "img": "ChablozChristian.jpg",
+    "email": "christian.chabloz@ecal.ch"
+  },
+  {
+    "name": "Chaintreau Julien",
+    "img": "CHAINTREAUJULIEN.jpg",
+    "email": "julien.chaintreau@ecal.ch"
+  },
+  {
+    "name": "Chambers Audrey",
+    "img": "ChambersAudrey.jpg",
+    "email": "audrey.chambers@ecal.ch"
+  },
+  {
+    "name": "Charlton White Sean",
+    "img": "?",
+    "email": "sean.charlton_white@ecal.ch"
+  },
+  {
+    "name": "Chastenet de Gery Benoît",
+    "img": "ChastenetDeGeryBenoit.jpg",
+    "email": "benoit.chastenet_de_gery@ecal.ch"
+  },
+  {
+    "name": "Chenaux Maëlle",
+    "img": "ChenauxMaelle.jpg",
+    "email": "maelle.chenaux@ecal.ch"
+  },
+  {
+    "name": "Chestopaloff Ivan",
+    "img": "ChestopaloffIvan.jpg",
+    "email": "ivan.chestopaloff@ecal.ch"
+  },
+  {
+    "name": "Chevalley Line",
+    "img": "CHEVALLEYLINE.jpg",
+    "email": "line.chevalley@ecal.ch"
+  },
+  {
+    "name": "Chevrier Bastien",
+    "img": "ChevrierBastien.jpg",
+    "email": "bastien.chevrier@ecal.ch"
+  },
+  {
+    "name": "Choosakul Wasan",
+    "img": "ChoosakulWasan.jpg",
+    "email": "wasan.choosakul@ecal.ch"
+  },
+  {
+    "name": "Christe Lison",
+    "img": "ChristeLison.jpg",
+    "email": "lison.christe@ecal.ch"
+  },
+  {
+    "name": "Chytil Zoé",
+    "img": "ChytilZoe.jpg",
+    "email": "zoe.chytil@ecal.ch"
+  },
+  {
+    "name": "Ciurescu Tudor",
+    "img": "CiurescuTudor.jpg",
+    "email": "tudor.ciurescu@ecal.ch"
+  },
+  {
+    "name": "Claessens Bastien",
+    "img": "ClaessensBastien.jpg",
+    "email": "bastien.claessens@ecal.ch"
+  },
+  {
+    "name": "Claret Arnaud",
+    "img": "ClaretArnaud.jpg",
+    "email": "arnaud.claret@ecal.ch"
+  },
+  {
+    "name": "Claudin Célestine",
+    "img": "ClaudinCelestine.jpg",
+    "email": "celestine.claudin@ecal.ch"
+  },
+  {
+    "name": "Clavier Margo",
+    "img": "ClavierMargo.jpg",
+    "email": "margo.clavier@ecal.ch"
+  },
+  {
+    "name": "Coissard Colombine",
+    "img": "?",
+    "email": "colombine.coissard@ecal.ch"
+  },
+  {
+    "name": "Colban Gabriel",
+    "img": "?",
+    "email": "gabriel.colban@ecal.ch"
+  },
+  {
+    "name": "Collet Louis Loup",
+    "img": "?",
+    "email": "louis.collet@ecal.ch"
+  },
+  {
+    "name": "Colliard Simon",
+    "img": "?",
+    "email": "simon.colliard@ecal.ch"
+  },
+  {
+    "name": "Colson Mathilde",
+    "img": "COLSONMATHILDE.jpg",
+    "email": "mathilde.colson@ecal.ch"
+  },
+  {
+    "name": "Comar Thaddé",
+    "img": "ComarThadde.jpg",
+    "email": "thadde.comar@ecal.ch"
+  },
+  {
+    "name": "Confort Coline",
+    "img": "ConfortColine.jpg",
+    "email": "coline.confort@ecal.ch"
+  },
+  {
+    "name": "Connor Elise",
+    "img": "ConnorElise.jpg",
+    "email": "elise.connor@ecal.ch"
+  },
+  {
+    "name": "Conte Luna",
+    "img": "ConteLuna.jpg",
+    "email": "luna.conte@ecal.ch"
+  },
+  {
+    "name": "Cooper-van Ingen Gita",
+    "img": "CoopervanIngenGita.jpg",
+    "email": "gita.cooper-van_ingen@ecal.ch"
+  },
+  {
+    "name": "Coppet Sarah",
+    "img": "CoppetSarah.jpg",
+    "email": "sarah.coppet@ecal.ch"
+  },
+  {
+    "name": "Corboz Gaël",
+    "img": "CorbozGael.jpg",
+    "email": "gael.corboz@ecal.ch"
+  },
+  {
+    "name": "Corda Margaux",
+    "img": "CORDAMARGAUX.jpg",
+    "email": "margaux.corda@ecal.ch"
+  },
+  {
+    "name": "Corday Julie",
+    "img": "CordayJulie.jpg",
+    "email": "julie.corday@ecal.ch"
+  },
+  {
+    "name": "Cornil Marie",
+    "img": "CornilMarie.jpg",
+    "email": "marie.cornil@ecal.ch"
+  },
+  {
+    "name": "Corpataux Elise",
+    "img": "CORPATAUXELISE.jpg",
+    "email": "elise.corpataux@ecal.ch"
+  },
+  {
+    "name": "Correvon Marion",
+    "img": "CorrevonMarion.jpg",
+    "email": "marion.correvon@ecal.ch"
+  },
+  {
+    "name": "Cortat Matthieu",
+    "img": "CortatMatthieu.jpg",
+    "email": "matthieu.cortat@ecal.ch"
+  },
+  {
+    "name": "Cottenceau Geoffrey",
+    "img": "CottenceauGeoffrey.jpg",
+    "email": "geoffrey.cottenceau@ecal.ch"
+  },
+  {
+    "name": "Cotter Noé",
+    "img": "CotterNoe.jpg",
+    "email": "noe.cotter@ecal.ch"
+  },
+  {
+    "name": "Coulombier Quentin",
+    "img": "?",
+    "email": "quentin.coulombier@ecal.ch"
+  },
+  {
+    "name": "Courcier Emeline",
+    "img": "?",
+    "email": "emeline.courcier@ecal.ch"
+  },
+  {
+    "name": "Crettex Nathan",
+    "img": "CrettexNathan.jpg",
+    "email": "nathan.crettex@ecal.ch"
+  },
+  {
+    "name": "Croci-Torti Sylvain",
+    "img": "CrociTortiSylvain.jpg",
+    "email": "sylvain.croci-torti@ecal.ch"
+  },
+  {
+    "name": "Croizier Matthieu",
+    "img": "?",
+    "email": "matthieu.croizier@ecal.ch"
+  },
+  {
+    "name": "Da Cas Tommaso",
+    "img": "DaCasTommaso.jpg",
+    "email": "tommaso.da_cas@ecal.ch"
+  },
+  {
+    "name": "Dafflon Stéphane",
+    "img": "DafflonStephane.jpg",
+    "email": "stephane.dafflon@ecal.ch"
+  },
+  {
+    "name": "Daguet Marina",
+    "img": "DaguetMarina.jpg",
+    "email": "marina.daguet@ecal.ch"
+  },
+  {
+    "name": "Dall&apos;Omo Olivia",
+    "img": "DallOmoOlivia.jpg",
+    "email": "olivia.dallomo@ecal.ch"
+  },
+  {
+    "name": "Dalla Libera Nadia",
+    "img": "Dalla Libera Nadia.jpg",
+    "email": "nadia.dalla_libera@ecal.ch"
+  },
+  {
+    "name": "Dautel Alexandra",
+    "img": "?",
+    "email": "alexandra.dautel@ecal.ch"
+  },
+  {
+    "name": "De La Torre Mathias",
+    "img": "DeLaTorreMathias.jpg",
+    "email": "mathias.de_la_torre@ecal.ch"
+  },
+  {
+    "name": "De Martin Lucie",
+    "img": "DeMartinLucie.jpg",
+    "email": "lucie.demartin@ecal.ch"
+  },
+  {
+    "name": "De Nicola Caterina",
+    "img": "DeNicolaCaterina.jpg",
+    "email": "caterina.de_nicola@ecal.ch"
+  },
+  {
+    "name": "Deceroi Julien",
+    "img": "DeceroiJulien.jpg",
+    "email": "julien.deceroi@ecal.ch"
+  },
+  {
+    "name": "Decker Louis",
+    "img": "?",
+    "email": "louis.decker@ecal.ch"
+  },
+  {
+    "name": "Decrauzat Philippe",
+    "img": "DecrauzatPhilippe.jpg",
+    "email": "philippe.decrauzat@ecal.ch"
+  },
+  {
+    "name": "Degen Noémie",
+    "img": "DegenNoemie.jpg",
+    "email": "noemie.degen@ecal.ch"
+  },
+  {
+    "name": "Degrandi Natasha",
+    "img": "DegrandiNatasha.jpg",
+    "email": "natasha.degrandi@ecal.ch"
+  },
+  {
+    "name": "Della Casa Fabio",
+    "img": "DellaCasaFabio.jpeg",
+    "email": "fabio.della_casa@ecal.ch"
+  },
+  {
+    "name": "Delseth Anne",
+    "img": "DelsethAnne.png",
+    "email": "anne.delseth@ecal.ch"
+  },
+  {
+    "name": "Deluz Lucie",
+    "img": "DeluzLucie.jpg",
+    "email": "lucie.deluz@ecal.ch"
+  },
+  {
+    "name": "Demay Amélie",
+    "img": "DemayAmélie.jpg",
+    "email": "amelie.demay@ecal.ch"
+  },
+  {
+    "name": "Demierre Antony",
+    "img": "DemierreAntony.jpg",
+    "email": "antony.demierre@ecal.ch"
+  },
+  {
+    "name": "Denic Mersad",
+    "img": "DenicMersad.jpg",
+    "email": "mersad.denic@ecal.ch"
+  },
+  {
+    "name": "Dermange Alice",
+    "img": "DermangeAlice.jpg",
+    "email": "alice.dermange@ecal.ch"
+  },
+  {
+    "name": "Desarzens Alexandre",
+    "img": "DesarzensAlexandre.jpg",
+    "email": "alexandre.desarzens@ecal.ch"
+  },
+  {
+    "name": "Destaing Thomas",
+    "img": "DestaingThomas.jpg",
+    "email": "thomas.destaing@ecal.ch"
+  },
+  {
+    "name": "Deutsch Pauline",
+    "img": "DeutschPauline.jpg",
+    "email": "pauline.deutsch@ecal.ch"
+  },
+  {
+    "name": "Dewarrat Margaux",
+    "img": "DEWARRATMARGAUX.jpg",
+    "email": "margaux.dewarrat@ecal.ch"
+  },
+  {
+    "name": "Diagne Cyril",
+    "img": "DiagneCyril.jpg",
+    "email": "cyril.diagne@ecal.ch"
+  },
+  {
+    "name": "Dieye Adji Fatou Amdy",
+    "img": "DieyeAdjiFatouAmdy.jpg",
+    "email": "adji.dieye@ecal.ch"
+  },
+  {
+    "name": "Donias Camille",
+    "img": "DoniasCamille.jpg",
+    "email": "camille.donias@ecal.ch"
+  },
+  {
+    "name": "Dorigo Pablo",
+    "img": "DorigoPablo.jpg",
+    "email": "pablo.dorigo@ecal.ch"
+  },
+  {
+    "name": "Doucet Salomé",
+    "img": "DoucetSalome.jpg",
+    "email": "salome.doucet@ecal.ch"
+  },
+  {
+    "name": "Douglas Calum",
+    "img": "DouglasCalum.jpg",
+    "email": "calum.douglas@ecal.ch"
+  },
+  {
+    "name": "Doussot Alix",
+    "img": "DoussotAlix.jpg",
+    "email": "alix.doussot@ecal.ch"
+  },
+  {
+    "name": "Droz Daniela",
+    "img": "DrozDaniela.jpg",
+    "email": "daniela.droz@ecal.ch"
+  },
+  {
+    "name": "DuPasquier Alan",
+    "img": "DuPasquierAlan.jpg",
+    "email": "alan.dupasquier@ecal.ch"
+  },
+  {
+    "name": "Dubois Marc",
+    "img": "Dubois Marc.jpg",
+    "email": "marc.dubois@ecal.ch"
+  },
+  {
+    "name": "Duchoud Xavier",
+    "img": "DuchoudXavier.jpg",
+    "email": "xavier.duchoud@ecal.ch"
+  },
+  {
+    "name": "Duchêne Cédric",
+    "img": "?",
+    "email": "cedric.duchene@ecal.ch"
+  },
+  {
+    "name": "Ducret Jean",
+    "img": "?",
+    "email": "jean.ducret@ecal.ch"
+  },
+  {
+    "name": "Dupasquier Loïc",
+    "img": "DupasquierLoic.jpg",
+    "email": "loic.dupasquier@ecal.ch"
+  },
+  {
+    "name": "Dupraz Lucile",
+    "img": "DuprazLucile.jpg",
+    "email": "lucile.dupraz@ecal.ch"
+  },
+  {
+    "name": "Dupuy Laureline",
+    "img": "DupuyLaureline.jpg",
+    "email": "laureline.dupuy@ecal.ch"
+  },
+  {
+    "name": "Durand Astrid",
+    "img": "DurandAstrid.jpg",
+    "email": "astrid.durand@ecal.ch"
+  },
+  {
+    "name": "Dutoit  Robert",
+    "img": "DutoitRobert.jpg",
+    "email": "robert.dutoit@ecal.ch"
+  },
+  {
+    "name": "Décoppet César",
+    "img": "DecoppetCesar.jpg",
+    "email": "cesar.decoppet@ecal.ch"
+  },
+  {
+    "name": "D’Esposito Martino",
+    "img": "D&apos;EspositoMartino.jpg",
+    "email": "martino.d-esposito@ecal.ch"
+  },
+  {
+    "name": "El Kadiri Nicolas",
+    "img": "ElKadiriNicolas.jpg",
+    "email": "nicolas.el_kadiri@ecal.ch"
+  },
+  {
+    "name": "Eliez Elie",
+    "img": "EliezElie.jpg",
+    "email": "elie.eliez@ecal.ch"
+  },
+  {
+    "name": "Erbrich Vincent",
+    "img": "ErbrichVincent.jpg",
+    "email": "vincent.erbrich@ecal.ch"
+  },
+  {
+    "name": "Esparon Pauline",
+    "img": "EsparonPauline.jpg",
+    "email": "pauline.esparon@ecal.ch"
+  },
+  {
+    "name": "Esteves Dias Raquel",
+    "img": "?",
+    "email": "raquel.esteves_dias@ecal.ch"
+  },
+  {
+    "name": "Estrada Leon Oscar",
+    "img": "EstradaOscar.jpg",
+    "email": "oscar.estrada_leon@ecal.ch"
+  },
+  {
+    "name": "Fardel Swann",
+    "img": "FardelSwann.jpg",
+    "email": "swann.fardel@ecal.ch"
+  },
+  {
+    "name": "Farhan Selma",
+    "img": "FarhanSelma.jpg",
+    "email": "selma.farhan@ecal.ch"
+  },
+  {
+    "name": "Farra Leila",
+    "img": "FarraLeila.jpg",
+    "email": "leila.farra@ecal.ch"
+  },
+  {
+    "name": "Fatehi Nora",
+    "img": "FatehiNora.jpg",
+    "email": "nora.fatehi@ecal.ch"
+  },
+  {
+    "name": "Faure Gaël",
+    "img": "FaureGael.jpg",
+    "email": "gael.faure@ecal.ch"
+  },
+  {
+    "name": "Favre Bastien",
+    "img": "FavreBastien.jpg",
+    "email": "bastien.favre@ecal.ch"
+  },
+  {
+    "name": "Favre Charlotte",
+    "img": "?",
+    "email": "charlotte.favre@ecal.ch"
+  },
+  {
+    "name": "Fazel Elie",
+    "img": "FazelElie.jpg",
+    "email": "elie.fazel@ecal.ch"
+  },
+  {
+    "name": "Ferla Giulia",
+    "img": "FerlaGiulia.jpg",
+    "email": "giulia.ferla@ecal.ch"
+  },
+  {
+    "name": "Figueirinha Francisco",
+    "img": "FigueirinhaFrancisco.jpg",
+    "email": "francisco.figueirinha@ecal.ch"
+  },
+  {
+    "name": "Findji Cyane",
+    "img": "FindjiCyane.jpg",
+    "email": "cyane.findji@ecal.ch"
+  },
+  {
+    "name": "Fiorentino Laurent",
+    "img": "FiorentinoLaurent.jpg",
+    "email": "laurent.fiorentino@ecal.ch"
+  },
+  {
+    "name": "Flahaut Antoine",
+    "img": "FlahautAntoine.jpg",
+    "email": "antoine.flahaut@ecal.ch"
+  },
+  {
+    "name": "Flückiger Kimyan",
+    "img": "FluckigerKimyan.jpg",
+    "email": "kimyan.fluckiger@ecal.ch"
+  },
+  {
+    "name": "Follonier Gabriel",
+    "img": "FollonierGabriel.jpg",
+    "email": "gabriel.follonier@ecal.ch"
+  },
+  {
+    "name": "Fornari Davide",
+    "img": "FornariDavide.jpeg",
+    "email": "davide.fornari@ecal.ch"
+  },
+  {
+    "name": "Forte Maria Lucia",
+    "img": "ForteMariaLucia.jpg",
+    "email": "maria_lucia.forte@ecal.ch"
+  },
+  {
+    "name": "Forté Pauline",
+    "img": "?",
+    "email": "pauline.forte@ecal.ch"
+  },
+  {
+    "name": "Fosse Arthur",
+    "img": "FosseArthur.jpg",
+    "email": "arthur.fosse@ecal.ch"
+  },
+  {
+    "name": "Foster Georg",
+    "img": "FosterGeorg.jpg",
+    "email": "georg.foster@ecal.ch"
+  },
+  {
+    "name": "Fouqueron Johanne",
+    "img": "FOUQUERONJOHANNE.jpg",
+    "email": "johanne.fouqueron@ecal.ch"
+  },
+  {
+    "name": "Fournier Basile",
+    "img": "?",
+    "email": "basile.fournier@ecal.ch"
+  },
+  {
+    "name": "Fovanna Ivo",
+    "img": "FovannaIvo.jpg",
+    "email": "ivo.fovanna@ecal.ch"
+  },
+  {
+    "name": "Fradella Emilie",
+    "img": "?",
+    "email": "emilie.fradella@ecal.ch"
+  },
+  {
+    "name": "Fragnière Philippe",
+    "img": "FragnierePhilippe.jpg",
+    "email": "philippe.fragniere@ecal.ch"
+  },
+  {
+    "name": "Fresey-Angelopoulou Sofia",
+    "img": "?",
+    "email": "sofia.fresey-angelopoulou@ecal.ch"
+  },
+  {
+    "name": "Friedmann Sebastián",
+    "img": "?",
+    "email": "sebastian.friedmann@ecal.ch"
+  },
+  {
+    "name": "Frieske Alina",
+    "img": "FrieskeAlina.jpg",
+    "email": "alina.frieske@ecal.ch"
+  },
+  {
+    "name": "Friis-Lund Eilean",
+    "img": "FriisLundEilean.jpg",
+    "email": "eilean.friis-lund@ecal.ch"
+  },
+  {
+    "name": "Fritz Paul",
+    "img": "FritzPaul.jpg",
+    "email": "paul.fritz@ecal.ch"
+  },
+  {
+    "name": "Froehly Hugo",
+    "img": "?",
+    "email": "hugo.froehly@ecal.ch"
+  },
+  {
+    "name": "Froger Magdalena",
+    "img": "FrogerMagdalena.jpg",
+    "email": "magdalena.froger@ecal.ch"
+  },
+  {
+    "name": "Froissart Damas",
+    "img": "FroissartDamas.jpg",
+    "email": "damas.froissart@ecal.ch"
+  },
+  {
+    "name": "Félix Salomé",
+    "img": "FelixSalome.jpg",
+    "email": "salome.felix@ecal.ch"
+  },
+  {
+    "name": "Gabriel Tina",
+    "img": "GABRIELTINA.jpg",
+    "email": "tina.gabriel@ecal.ch"
+  },
+  {
+    "name": "Gachet Ernest",
+    "img": "GachetErnest.jpg",
+    "email": "ernest.gachet@ecal.ch"
+  },
+  {
+    "name": "Gafsou Matthieu",
+    "img": "?",
+    "email": "matthieu.gafsou@ecal.ch"
+  },
+  {
+    "name": "Gagliardi Louisa",
+    "img": "GagliardiLouisa.jpg",
+    "email": "louisa.gagliardi@ecal.ch"
+  },
+  {
+    "name": "Gaillard Alexandre",
+    "img": "GaillardAlexandre.jpg",
+    "email": "alexandre.gaillard@ecal.ch"
+  },
+  {
+    "name": "Galera Larios Sébastien",
+    "img": "GaleraLariosSebastien.jpg",
+    "email": "sebastien.galera_larios@ecal.ch"
+  },
+  {
+    "name": "Gameiro Guillaume",
+    "img": "GameiroGuillaume.jpg",
+    "email": "guillaume.gameiro@ecal.ch"
+  },
+  {
+    "name": "Ganz Aurel",
+    "img": "?",
+    "email": "aurel.ganz@ecal.ch"
+  },
+  {
+    "name": "Garcia Argos Isabel",
+    "img": "Garcia ArgosIsabel.jpg",
+    "email": "isabel.garcia_argos@ecal.ch"
+  },
+  {
+    "name": "Garcia Rennó Pereira Eduardo",
+    "img": "GarciaEduardo.jpg",
+    "email": "eduardo.garcia@ecal.ch"
+  },
+  {
+    "name": "Garcia Tristan",
+    "img": "GarciaTristan.jpg",
+    "email": "tristan.garcia@ecal.ch"
+  },
+  {
+    "name": "Gassmann Stefania",
+    "img": "GassmannStefania.jpg",
+    "email": "stefania.gassmann@ecal.ch"
+  },
+  {
+    "name": "Gatto Samy",
+    "img": "GattoSamy.jpg",
+    "email": "samy.gatto@ecal.ch"
+  },
+  {
+    "name": "Gaugué Mathilde",
+    "img": "GaugueMathilde.jpg",
+    "email": "mathilde.gaugue@ecal.ch"
+  },
+  {
+    "name": "Gavillet Gilles",
+    "img": "GavilletGilles.jpg",
+    "email": "gilles.gavillet@ecal.ch"
+  },
+  {
+    "name": "Gay Charlie",
+    "img": "GayCharlie.jpg",
+    "email": "charlie.gay@ecal.ch"
+  },
+  {
+    "name": "Gaytandjiev Nikola",
+    "img": "GaytandjievNikola.jpg",
+    "email": "nikola.gaytandjiev@ecal.ch"
+  },
+  {
+    "name": "Gazic Sandi",
+    "img": "GazicSandi.jpg",
+    "email": "sandi.gazic@ecal.ch"
+  },
+  {
+    "name": "Geffard Théo",
+    "img": "?",
+    "email": "theo.geffard@ecal.ch"
+  },
+  {
+    "name": "Georgacopoulos Alexis",
+    "img": "GeorgacopoulosAlexis.jpg",
+    "email": "alexis.georgacopoulos@ecal.ch"
+  },
+  {
+    "name": "Ghanmi Souhaïb",
+    "img": "GhanmiSouhaib.jpg",
+    "email": "souhaib.ghanmi@ecal.ch"
+  },
+  {
+    "name": "Ghazale Serge",
+    "img": "GHAZALESERGE.jpg",
+    "email": "serge.ghazale@ecal.ch"
+  },
+  {
+    "name": "Ghelfi Sandy",
+    "img": "?",
+    "email": "sandy.ghelfi@ecal.ch"
+  },
+  {
+    "name": "Ghio Chiara",
+    "img": "GhioChiara.jpg",
+    "email": "chiara.ghio@ecal.ch"
+  },
+  {
+    "name": "Gicquel Clément",
+    "img": "GicquelClement.jpg",
+    "email": "clement.gicquel@ecal.ch"
+  },
+  {
+    "name": "Giglio Théa",
+    "img": "GiglioThea.jpg",
+    "email": "thea.giglio@ecal.ch"
+  },
+  {
+    "name": "Gini Amandine",
+    "img": "GiniAmandine.jpg",
+    "email": "amandine.gini@ecal.ch"
+  },
+  {
+    "name": "Giordano Lucas",
+    "img": "GiordanoLucas.jpg",
+    "email": "lucas.giordano@ecal.ch"
+  },
+  {
+    "name": "Girard Céverine",
+    "img": "GirardCeverine.jpg",
+    "email": "ceverine.girard@ecal.ch"
+  },
+  {
+    "name": "Giraud Guillaume",
+    "img": "?",
+    "email": "guillaume.giraud@ecal.ch"
+  },
+  {
+    "name": "Gomboso Loris",
+    "img": "GOMBOSOLORIS.jpg",
+    "email": "loris.gomboso@ecal.ch"
+  },
+  {
+    "name": "Gomez Bastien",
+    "img": "GomezBastien.jpg",
+    "email": "bastien.gomez@ecal.ch"
+  },
+  {
+    "name": "Goo Gi Jeong",
+    "img": "GooGiJeong.jpg",
+    "email": "gi_jeong.goo@ecal.ch"
+  },
+  {
+    "name": "Gossweiler Julien",
+    "img": "GossweilerJulien.jpg",
+    "email": "julien.gossweiler@ecal.ch"
+  },
+  {
+    "name": "Goël Manon",
+    "img": "?",
+    "email": "manon.goel@ecal.ch"
+  },
+  {
+    "name": "Gramage Nathan",
+    "img": "GRAMAGENATHAN.jpg",
+    "email": "nathan.gramage@ecal.ch"
+  },
+  {
+    "name": "Greco Laurie",
+    "img": "GRECOLAURIE.jpg",
+    "email": "laurie.greco@ecal.ch"
+  },
+  {
+    "name": "Gross Sébastian",
+    "img": "GrossSebastian.jpg",
+    "email": "sebastia.gross@ecal.ch"
+  },
+  {
+    "name": "Grunewald Eliott",
+    "img": "GrunewaldEliott.jpg",
+    "email": "eliott.grunewald@ecal.ch"
+  },
+  {
+    "name": "Gräber Fritz",
+    "img": "GraberFritz.jpg",
+    "email": "fritz.graber@ecal.ch"
+  },
+  {
+    "name": "Guberan Christophe",
+    "img": "GuberanChristophe.jpg",
+    "email": "christophe.guberan@ecal.ch"
+  },
+  {
+    "name": "Guetta Iskander",
+    "img": "GUETTAISKANDER.jpg",
+    "email": "iskander.guetta@ecal.ch"
+  },
+  {
+    "name": "Guex Anthony",
+    "img": "GuexAnthony.jpg",
+    "email": "anthony.guex@ecal.ch"
+  },
+  {
+    "name": "Gugg Stephanie",
+    "img": "GuggStephanie.jpg",
+    "email": "stephanie.gugg@ecal.ch"
+  },
+  {
+    "name": "Guignard Christophe",
+    "img": "GuignardChristophe.jpg",
+    "email": "christophe.guignard@ecal.ch"
+  },
+  {
+    "name": "Guillaume Géraldine",
+    "img": "GuillaumeGeraldine.jpg",
+    "email": "geraldine.guillaume@ecal.ch"
+  },
+  {
+    "name": "Gunti Claus",
+    "img": "GuntiClaus.jpg",
+    "email": "claus.gunti@ecal.ch"
+  },
+  {
+    "name": "Guyon Maxime",
+    "img": "GuyonMaxime.jpg",
+    "email": "maxime.guyon@ecal.ch"
+  },
+  {
+    "name": "Guyot Léonard",
+    "img": "GuyotLeonard.jpg",
+    "email": "leonard.guyot@ecal.ch"
+  },
+  {
+    "name": "Görlitz Matias",
+    "img": "GorlitzMatias.jpg",
+    "email": "matias.gorlitz@ecal.ch"
+  },
+  {
+    "name": "Gün Solène",
+    "img": "GunSolene.jpg",
+    "email": "solene.gun@ecal.ch"
+  },
+  {
+    "name": "Hadjigeorgiou Clio",
+    "img": "HadjigeorgiouClio.jpg",
+    "email": "clio.hadjigeorgiou@ecal.ch"
+  },
+  {
+    "name": "Halmaï-Voisard Stéphane",
+    "img": "HalmaiVoisardStephane.jpg",
+    "email": "stephane.halmai@ecal.ch"
+  },
+  {
+    "name": "Hamon Amaury",
+    "img": "HamonAmaury.jpg",
+    "email": "amaury.hamon@ecal.ch"
+  },
+  {
+    "name": "Hans-Moëvi Louis",
+    "img": "HansMoeviLouis.jpg",
+    "email": "louis.hans-moevi@ecal.ch"
+  },
+  {
+    "name": "Hardy Leah",
+    "img": "?",
+    "email": "leah.hardy@ecal.ch"
+  },
+  {
+    "name": "Hares Jonathan",
+    "img": "?",
+    "email": "jonathan.hares@ecal.ch"
+  },
+  {
+    "name": "Haussener Lucas",
+    "img": "HaussenerLucas.jpg",
+    "email": "lucas.haussener@ecal.ch"
+  },
+  {
+    "name": "Hayat Dora",
+    "img": "HayatDora.jpg",
+    "email": "dora.hayat@ecal.ch"
+  },
+  {
+    "name": "Hazbar Talin",
+    "img": "?",
+    "email": "talin.hazbar@ecal.ch"
+  },
+  {
+    "name": "Hectus Hugo",
+    "img": "?",
+    "email": "hugo.hectus@ecal.ch"
+  },
+  {
+    "name": "Heeb Catherine",
+    "img": "HeebCatherine.jpg",
+    "email": "catherine.heeb@ecal.ch"
+  },
+  {
+    "name": "Herrera Emeline",
+    "img": "HERRERAEMELINE.jpg",
+    "email": "emeline.herrera@ecal.ch"
+  },
+  {
+    "name": "Heymoz Pierre",
+    "img": "HeymozPierre.jpg",
+    "email": "pierre.heymoz@ecal.ch"
+  },
+  {
+    "name": "Hilpertshauser Mégane",
+    "img": "HilpertshauserMegane.jpg",
+    "email": "megane.hilpertshauser@ecal.ch"
+  },
+  {
+    "name": "Hiraldo Voleau Karla",
+    "img": "HiraldoVoleauKarla.jpg",
+    "email": "karla.hiraldo_voleau@ecal.ch"
+  },
+  {
+    "name": "Ho Norida",
+    "img": "HoNorida.jpg",
+    "email": "norida.ho@ecal.ch"
+  },
+  {
+    "name": "Horozic Amina",
+    "img": "HorozicAmina.jpg",
+    "email": "amina.horozic@ecal.ch"
+  },
+  {
+    "name": "Hu Jung-Ting",
+    "img": "HuJungTing.jpg",
+    "email": "jung-ting.hu@ecal.ch"
+  },
+  {
+    "name": "Hu Xiaoqin",
+    "img": "?",
+    "email": "xiaoqin.hu@ecal.ch"
+  },
+  {
+    "name": "Huber Robert",
+    "img": "HuberRobert.jpg",
+    "email": "robert.huber@ecal.ch"
+  },
+  {
+    "name": "Hugo Gaël",
+    "img": "HugoGael.jpg",
+    "email": "gael.hugo@ecal.ch"
+  },
+  {
+    "name": "Husi Baptiste",
+    "img": "HusiBaptiste.jpg",
+    "email": "baptiste.husi@ecal.ch"
+  },
+  {
+    "name": "Husson Ambre",
+    "img": "?",
+    "email": "ambre.husson@ecal.ch"
+  },
+  {
+    "name": "Iamartino Domenico",
+    "img": "IamartinoDomenico.jpg",
+    "email": "domenico.iamartino@ecal.ch"
+  },
+  {
+    "name": "Ingster Eva",
+    "img": "IngsterEva.jpg",
+    "email": "eva.ingster@ecal.ch"
+  },
+  {
+    "name": "Iso Nelson",
+    "img": "IsoNelson.jpg",
+    "email": "nelson.iso@ecal.ch"
+  },
+  {
+    "name": "Isoz Jean-Michel",
+    "img": "IsozJeanMichel.jpg",
+    "email": "jean-michel.isoz@ecal.ch"
+  },
+  {
+    "name": "Ito Mariko",
+    "img": "ItoMariko.jpg",
+    "email": "mariko.ito@ecal.ch"
+  },
+  {
+    "name": "Izoard Mallaury",
+    "img": "?",
+    "email": "mallaury.izoard@ecal.ch"
+  },
+  {
+    "name": "Jacquard Victor",
+    "img": "JacquardVictor.jpg",
+    "email": "victor.jacquard@ecal.ch"
+  },
+  {
+    "name": "Jacquat Antoine",
+    "img": "JacquatAntoine.jpg",
+    "email": "antoine.jacquat@ecal.ch"
+  },
+  {
+    "name": "Jacquier Vincent",
+    "img": "JacquierVincent.jpg",
+    "email": "vincent.jacquier@ecal.ch"
+  },
+  {
+    "name": "Jakob Elisa",
+    "img": "JakobElisa.jpg",
+    "email": "elisa.jakob@ecal.ch"
+  },
+  {
+    "name": "Jang Yesul",
+    "img": "JangYesul.jpg",
+    "email": "yesul.jang@ecal.ch"
+  },
+  {
+    "name": "Jaquillard Pierry",
+    "img": "JAQUILLARDPIERRY.jpg",
+    "email": "pierry.jaquillard@ecal.ch"
+  },
+  {
+    "name": "Jarrigeon Philippe",
+    "img": "?",
+    "email": "philippe.jarrigeon@ecal.ch"
+  },
+  {
+    "name": "Jashari Pierre-Kastriot",
+    "img": "JASHARIPIERREKASTRIOT.jpg",
+    "email": "pierre-kastriot.jashari@ecal.ch"
+  },
+  {
+    "name": "Jaton Simon",
+    "img": "JatonSimon.jpg",
+    "email": "simon.jaton@ecal.ch"
+  },
+  {
+    "name": "Jean-Mairet Guillaume",
+    "img": "JeanMairetGuillaume.jpg",
+    "email": "guillaume.jean-mairet@ecal.ch"
+  },
+  {
+    "name": "Jeanmonod Grégoire",
+    "img": "JeanmonodGregoire.jpg",
+    "email": "gregoire.jeanmonod@ecal.ch"
+  },
+  {
+    "name": "Jeanneret Alessandra",
+    "img": "JEANNERETALESSANDRA.jpg",
+    "email": "alessandra.jeanneret@ecal.ch"
+  },
+  {
+    "name": "Jeannet Benoît",
+    "img": "JeannetBenoit.jpg",
+    "email": "benoit.jeannet@ecal.ch"
+  },
+  {
+    "name": "Jeanrenaud Nora",
+    "img": "JeanrenaudNora.jpg",
+    "email": "nora.jeanrenaud@ecal.ch"
+  },
+  {
+    "name": "Jemaa Rayane",
+    "img": "JemaaRayane.jpg",
+    "email": "rayane.jemaa@ecal.ch"
+  },
+  {
+    "name": "Jeong Youjung",
+    "img": "JeongYoujung.jpg",
+    "email": "youjung.jeong@ecal.ch"
+  },
+  {
+    "name": "Jiang Xinyi",
+    "img": "JiangXinyi.jpg",
+    "email": "xinyi.jiang@ecal.ch"
+  },
+  {
+    "name": "Jiménez Villalón Raúl",
+    "img": "JimenezVillalonRaul.jpg",
+    "email": "raul.jimenez@ecal.ch"
+  },
+  {
+    "name": "Jiménez Villalón Raúl",
+    "img": "JimenezVillalonRaul.jpg",
+    "email": "raul.jimenez@ecal.ch"
+  },
+  {
+    "name": "Jolliet Bruno",
+    "img": "JollietBruno.jpg",
+    "email": "bruno.jolliet@ecal.ch"
+  },
+  {
+    "name": "Jouve Jeanne",
+    "img": "JOUVEJEANNE.jpg",
+    "email": "jeanne.jouve@ecal.ch"
+  },
+  {
+    "name": "Jovanovic Dorian",
+    "img": "JovanovicDorian.jpg",
+    "email": "dorian.jovanovic@ecal.ch"
+  },
+  {
+    "name": "Jovicic Eva",
+    "img": "JovicicEva.jpg",
+    "email": "eva.jovicic@ecal.ch"
+  },
+  {
+    "name": "Jullien Léa",
+    "img": "?",
+    "email": "lea.jullien@ecal.ch"
+  },
+  {
+    "name": "Junod Isabelle",
+    "img": "JunodIsabelle.jpg",
+    "email": "isabelle.junod@ecal.ch"
+  },
+  {
+    "name": "Kabel Chris",
+    "img": "?",
+    "email": "chris.kabel@ecal.ch"
+  },
+  {
+    "name": "Kaeser Adrien",
+    "img": "KAESERADRIEN.jpg",
+    "email": "adrien.kaeser@ecal.ch"
+  },
+  {
+    "name": "Kahlfeldt Luisa",
+    "img": "KahlfeldtLuisa.jpg",
+    "email": "luisa.kahlfeldt@ecal.ch"
+  },
+  {
+    "name": "Kaiser Valentin",
+    "img": "KaiserValentin.jpg",
+    "email": "valentin.kaiser@ecal.ch"
+  },
+  {
+    "name": "Kao Mu-Hau",
+    "img": "KaoMuHau.jpg",
+    "email": "mu-hau.kao@ecal.ch"
+  },
+  {
+    "name": "Karrer Roman",
+    "img": "KarrerRoman.jpg",
+    "email": "roman.karrer@ecal.ch"
+  },
+  {
+    "name": "Kasper Luca",
+    "img": "KASPERLUCA.jpg",
+    "email": "luca.kasper@ecal.ch"
+  },
+  {
+    "name": "Kay Stéfanie",
+    "img": "KayStefanie.jpg",
+    "email": "stefanie.kay@ecal.ch"
+  },
+  {
+    "name": "Kazmi Vanessa",
+    "img": "?",
+    "email": "vanessa.kazmi@ecal.ch"
+  },
+  {
+    "name": "Kaïmanovitch Eugène",
+    "img": "KaimanovitchEugene.jpg",
+    "email": "eugene.kaimanovitch@ecal.ch"
+  },
+  {
+    "name": "Keller Gohan",
+    "img": "KellerGohan.jpg",
+    "email": "gohan.keller@ecal.ch"
+  },
+  {
+    "name": "Keller Ludivine",
+    "img": "?",
+    "email": "ludivine.keller@ecal.ch"
+  },
+  {
+    "name": "Keller Milo",
+    "img": "KellerMilo.jpg",
+    "email": "milo.keller@ecal.ch"
+  },
+  {
+    "name": "Keller Patrick",
+    "img": "KellerPatrick.jpg",
+    "email": "patrick.keller@ecal.ch"
+  },
+  {
+    "name": "Kelly Evan",
+    "img": "KellyEvan.jpg",
+    "email": "evan.kelly@ecal.ch"
+  },
+  {
+    "name": "Kern Ann",
+    "img": "KernAnn.jpg",
+    "email": "ann.kern@ecal.ch"
+  },
+  {
+    "name": "Kerrand Lauriane",
+    "img": "KerrandLauriane.jpg",
+    "email": "lauriane.kerrand@ecal.ch"
+  },
+  {
+    "name": "Kerrand Lauriane",
+    "img": "KerrandLauriane.jpg",
+    "email": "lauriane.kerrand@ecal.ch"
+  },
+  {
+    "name": "Kessler Jann",
+    "img": "KesslerJann.jpg",
+    "email": "jann.kessler@ecal.ch"
+  },
+  {
+    "name": "Kettiger Romy",
+    "img": "KettigerRomy.jpg",
+    "email": "romy.kettiger@ecal.ch"
+  },
+  {
+    "name": "Khan Yuliya",
+    "img": "KhanYuliya.jpg",
+    "email": "yuliya.khan@ecal.ch"
+  },
+  {
+    "name": "Kim Dongwoo",
+    "img": "KimDongwoo.jpg",
+    "email": "dongwoo.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Hansaem",
+    "img": "KimHansaem.jpg",
+    "email": "hansaem.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Jinhee",
+    "img": "?",
+    "email": "jinhee.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Kyeongsik",
+    "img": "?",
+    "email": "kyeongsik.kim@ecal.ch"
+  },
+  {
+    "name": "Kim Min",
+    "img": "KimMin.jpg",
+    "email": "min.kim@ecal.ch"
+  },
+  {
+    "name": "Kim So Hee",
+    "img": "?",
+    "email": "so_hee.kim@ecal.ch"
+  },
+  {
+    "name": "Kishtoo Lisa",
+    "img": "KishtooLisa.jpg",
+    "email": "lisa.kishtoo@ecal.ch"
+  },
+  {
+    "name": "Klein Sarah",
+    "img": "KleinSarah.jpg",
+    "email": "sarah.klein@ecal.ch"
+  },
+  {
+    "name": "Klouche Younès",
+    "img": "KloucheYounes.jpg",
+    "email": "younes.klouche@ecal.ch"
+  },
+  {
+    "name": "Knuchel Justine",
+    "img": "?",
+    "email": "justine.knuchel@ecal.ch"
+  },
+  {
+    "name": "Knöpfel Mandine",
+    "img": "?",
+    "email": "mandine.knoepfel@ecal.ch"
+  },
+  {
+    "name": "Kocagöncü Lara",
+    "img": "KocagoncuLara.jpg",
+    "email": "lara.kocagoncu@ecal.ch"
+  },
+  {
+    "name": "Koeke Sarah",
+    "img": "?",
+    "email": "sarah.koeke@ecal.ch"
+  },
+  {
+    "name": "Kohler François",
+    "img": "KohlerFrancois.jpg",
+    "email": "francois.kohler@ecal.ch"
+  },
+  {
+    "name": "Koivu Anniina",
+    "img": "KoivuAnniina.jpg",
+    "email": "anniina.koivu@ecal.ch"
+  },
+  {
+    "name": "Kojima Kohei",
+    "img": "KojimaKohei.jpg",
+    "email": "kohei.kojima@ecal.ch"
+  },
+  {
+    "name": "Konakovic Pavle Vanja",
+    "img": "KonakovicPavleVanja.jpg",
+    "email": "pavle.konakovic@ecal.ch"
+  },
+  {
+    "name": "Korbel Julietta",
+    "img": "KorbelJulietta.jpg",
+    "email": "julietta.korbel@ecal.ch"
+  },
+  {
+    "name": "Kort Samy",
+    "img": "KORTSAMY.jpg",
+    "email": "samy.kort@ecal.ch"
+  },
+  {
+    "name": "Kottler Marina",
+    "img": "KottlerMarina.jpg",
+    "email": "marina.kottler@ecal.ch"
+  },
+  {
+    "name": "Krayenbühl Laure",
+    "img": "KrayenbuhlLaure.jpg",
+    "email": "laure.krayenbuhl@ecal.ch"
+  },
+  {
+    "name": "Krengel Garance",
+    "img": "KrengelGarance.jpg",
+    "email": "garance.krengel@ecal.ch"
+  },
+  {
+    "name": "Krieger Charlotte",
+    "img": "KriegerCharlotte.jpg",
+    "email": "charlotte.krieger@ecal.ch"
+  },
+  {
+    "name": "Krohne Sarah",
+    "img": "KrohneSarah.jpg",
+    "email": "sarah.krohne@ecal.ch"
+  },
+  {
+    "name": "Kropf Stéphane",
+    "img": "KropfStephane.jpg",
+    "email": "stephane.kropf@ecal.ch"
+  },
+  {
+    "name": "Kryvosheiev Mykyta",
+    "img": "KryvosheievMykyta.jpg",
+    "email": "mykyta.kryvosheiev@ecal.ch"
+  },
+  {
+    "name": "Krzentowski Charlotte",
+    "img": "KrzentowskiCharlotte.jpg",
+    "email": "charlotte.krzentowski@ecal.ch"
+  },
+  {
+    "name": "Král Tomás",
+    "img": "KralTomas.jpg",
+    "email": "tomas.kral@ecal.ch"
+  },
+  {
+    "name": "L&apos;Hostis Anna",
+    "img": "?",
+    "email": "anna.lhostis@ecal.ch"
+  },
+  {
+    "name": "Lacombe Quentin",
+    "img": "LacombeQuentin.jpg",
+    "email": "quentin.lacombe@ecal.ch"
+  },
+  {
+    "name": "Lafortune François",
+    "img": "LafortuneFrancois.jpg",
+    "email": "francois.lafortune@ecal.ch"
+  },
+  {
+    "name": "Lamarre Guillaume",
+    "img": "LamarreGuillaume.jpg",
+    "email": "guillaume.lamarre@ecal.ch"
+  },
+  {
+    "name": "Lambelet Clément",
+    "img": "LambeletClement.jpg",
+    "email": "clement.lambelet@ecal.ch"
+  },
+  {
+    "name": "Lang Mathieu",
+    "img": "LangMathieu.jpg",
+    "email": "mathieu.lang@ecal.ch"
+  },
+  {
+    "name": "Langton Lucien",
+    "img": "LangtonLucien.jpg",
+    "email": "lucien.langton@ecal.ch"
+  },
+  {
+    "name": "Lanz Sylvan",
+    "img": "LANZSYLVAN.jpg",
+    "email": "sylvan.lanz@ecal.ch"
+  },
+  {
+    "name": "Laplante - Le Brun Achille",
+    "img": "LaplanteAchille.jpg",
+    "email": "achille.laplante@ecal.ch"
+  },
+  {
+    "name": "Laucella Laura",
+    "img": "LaucellaLaura.jpg",
+    "email": "laura.laucella@ecal.ch"
+  },
+  {
+    "name": "Laurendeau-Rivard Jérôme",
+    "img": "LaurendeauRivardJerome.jpg",
+    "email": "jerome.laurendeau@ecal.ch"
+  },
+  {
+    "name": "Le Moigne Nicolas",
+    "img": "LeMoigneNicolas.jpg",
+    "email": "nicolas.le_moigne@ecal.ch"
+  },
+  {
+    "name": "Le Provost Thomas",
+    "img": "LEPROVOSTTHOMAS.jpg",
+    "email": "thomas.le_provost@ecal.ch"
+  },
+  {
+    "name": "Leal Fernanda",
+    "img": "LealFernanda.jpg",
+    "email": "fernanda.leal@ecal.ch"
+  },
+  {
+    "name": "Leal Heidi",
+    "img": "LealHeidi.jpg",
+    "email": "heidi.leal@ecal.ch"
+  },
+  {
+    "name": "Lecanu Baptiste",
+    "img": "LecanuBaptiste.jpg",
+    "email": "baptiste.lecanu@ecal.ch"
+  },
+  {
+    "name": "Lee Dayeon",
+    "img": "LeeDayeon.jpg",
+    "email": "dayeon.lee@ecal.ch"
+  },
+  {
+    "name": "Lee Kyung Jin",
+    "img": "?",
+    "email": "kyung_jin.lee@ecal.ch"
+  },
+  {
+    "name": "Lefebure Laura",
+    "img": "LefebureLaura.jpg",
+    "email": "laura.lefebure@ecal.ch"
+  },
+  {
+    "name": "Lefèvre Ragueneau Juliette",
+    "img": "LefevreRagueneauJuliette.jpg",
+    "email": "juliette.lefevre@ecal.ch"
+  },
+  {
+    "name": "Lefèvre Ragueneau Juliette",
+    "img": "LefevreRagueneauJuliette.jpg",
+    "email": "juliette.lefevre@ecal.ch"
+  },
+  {
+    "name": "Lehmann Arthur",
+    "img": "LehmannArthur.jpg",
+    "email": "arthur.lehmann@ecal.ch"
+  },
+  {
+    "name": "Lehmann Avril",
+    "img": "?",
+    "email": "avril.lehmann@ecal.ch"
+  },
+  {
+    "name": "Lehmann Kaj",
+    "img": "LehmannKaj.jpg",
+    "email": "kaj.lehmann@ecal.ch"
+  },
+  {
+    "name": "Leimgruber Valentine",
+    "img": "LeimgruberValentine.jpg",
+    "email": "valentine.leimgruber@ecal.ch"
+  },
+  {
+    "name": "Lepoutre Sélène",
+    "img": "LepoutreSelene.jpg",
+    "email": "selene.lepoutre@ecal.ch"
+  },
+  {
+    "name": "Leroux Corentin",
+    "img": "LerouxCorentin.jpg",
+    "email": "corentin.leroux@ecal.ch"
+  },
+  {
+    "name": "Lescieux Alexandre",
+    "img": "?",
+    "email": "alexandre.lescieux@ecal.ch"
+  },
+  {
+    "name": "Lesueur Natacha",
+    "img": "LesueurNatacha.jpg",
+    "email": "natacha.lesueur@ecal.ch"
+  },
+  {
+    "name": "Levrat Vincent",
+    "img": "LevratVincent.jpg",
+    "email": "vincent.levrat@ecal.ch"
+  },
+  {
+    "name": "Li Lisa",
+    "img": "LiLisa.jpg",
+    "email": "lisa.li@ecal.ch"
+  },
+  {
+    "name": "Li Peilian",
+    "img": "LiPeilian.jpg",
+    "email": "peilian.li@ecal.ch"
+  },
+  {
+    "name": "Lienhard Carla",
+    "img": "LienhardCarla.jpg",
+    "email": "carla.lienhard@ecal.ch"
+  },
+  {
+    "name": "Limbach Leoni",
+    "img": "?",
+    "email": "leoni.limbach@ecal.ch"
+  },
+  {
+    "name": "Lindt Julien",
+    "img": "?",
+    "email": "julien.lindt@ecal.ch"
+  },
+  {
+    "name": "Lippert Jana Marlene",
+    "img": "LippertJanaMarlene.jpg",
+    "email": "jana.lippert@ecal.ch"
+  },
+  {
+    "name": "Liu Kai-Hsuan",
+    "img": "LiuKaiHsuan.jpg",
+    "email": "kai-hsuan.liu@ecal.ch"
+  },
+  {
+    "name": "Locher Léa",
+    "img": "?",
+    "email": "lea.locher@ecal.ch"
+  },
+  {
+    "name": "Longhi Lorenza",
+    "img": "LonghiLorenza.jpg",
+    "email": "lorenza.longhi@ecal.ch"
+  },
+  {
+    "name": "Loy David",
+    "img": "LoyDavid.jpg",
+    "email": "david.loy@ecal.ch"
+  },
+  {
+    "name": "Luginbühl Kylan",
+    "img": "LuginbuhlKylan.jpg",
+    "email": "kylan.luginbuhl@ecal.ch"
+  },
+  {
+    "name": "Luna Ernesto",
+    "img": "LunaErnesto.jpg",
+    "email": "ernesto.luna@ecal.ch"
+  },
+  {
+    "name": "Lusa Marie",
+    "img": "?",
+    "email": "marie.lusa@ecal.ch"
+  },
+  {
+    "name": "Luvisotto Theo",
+    "img": "LuvisottoTheo.jpg",
+    "email": "theo.luvisotto@ecal.ch"
+  },
+  {
+    "name": "Làposi Agnese",
+    "img": "LaposiAgnese.jpg",
+    "email": "agnese.laposi@ecal.ch"
+  },
+  {
+    "name": "López Vargas Sebastian",
+    "img": "LopezVargasSebastian.jpg",
+    "email": "sebastian.lopez_vargas@ecal.ch"
+  },
+  {
+    "name": "Mac Sweeney Victoria",
+    "img": "MacSweeneyVictoria.jpg",
+    "email": "victoria.mac_sweeney@ecal.ch"
+  },
+  {
+    "name": "MacDougall Tennessee",
+    "img": "MacDougallTennessee.jpg",
+    "email": "tennessee.macdougall@ecal.ch"
+  },
+  {
+    "name": "Mager Simon",
+    "img": "MagerSimon.jpg",
+    "email": "simon.mager@ecal.ch"
+  },
+  {
+    "name": "Magnúsdóttir Una Björg",
+    "img": "MagnusdottirUnaBjorg.jpg",
+    "email": "una.magnusdottir@ecal.ch"
+  },
+  {
+    "name": "Mahboobi Shahabaldin",
+    "img": "?",
+    "email": "shahabaldin.mahboobi@ecal.ch"
+  },
+  {
+    "name": "Mahdavi Jade",
+    "img": "MahdaviJade.jpg",
+    "email": "jade.mahdavi@ecal.ch"
+  },
+  {
+    "name": "Mahieu Calypso",
+    "img": "MahieuCalypso.jpg",
+    "email": "calypso.mahieu@ecal.ch"
+  },
+  {
+    "name": "Maissen Kelian",
+    "img": "MaissenKelian.jpg",
+    "email": "kelian.maissen@ecal.ch"
+  },
+  {
+    "name": "Maldini Bianca",
+    "img": "MaldiniBianca.jpg",
+    "email": "bianca.maldini@ecal.ch"
+  },
+  {
+    "name": "Maltot Zoé",
+    "img": "MaltotZoe.jpg",
+    "email": "zoe.maltot@ecal.ch"
+  },
+  {
+    "name": "Maluska Sebastian",
+    "img": "MaluskaSebastian.jpg",
+    "email": "sebastian.maluska@ecal.ch"
+  },
+  {
+    "name": "Mandrou Margaux",
+    "img": "MandrouMargaux.jpg",
+    "email": "margaux.mandrou@ecal.ch"
+  },
+  {
+    "name": "Manhes Laure",
+    "img": "ManhesLaure.jpg",
+    "email": "laure.manhes@ecal.ch"
+  },
+  {
+    "name": "Marcel Grégoire-Cesare",
+    "img": "MarcelGregoireCesare.jpg",
+    "email": "gregoire-cesare.marcel@ecal.ch"
+  },
+  {
+    "name": "Marchand Amélie",
+    "img": "MarchandAmelie.jpg",
+    "email": "amelie.marchand@ecal.ch"
+  },
+  {
+    "name": "Marielle Théo",
+    "img": "MarielleTheo.jpg",
+    "email": "theo.marielle@ecal.ch"
+  },
+  {
+    "name": "Marino Lara",
+    "img": "MarinoLara.jpg",
+    "email": "lara.marino@ecal.ch"
+  },
+  {
+    "name": "Marinovic Pavo",
+    "img": "?",
+    "email": "pavo.marinovic@ecal.ch"
+  },
+  {
+    "name": "Marti Fabian",
+    "img": "MartiFabian.jpg",
+    "email": "fabian.marti@ecal.ch"
+  },
+  {
+    "name": "Martin Antoine",
+    "img": "?",
+    "email": "antoine.martin@ecal.ch"
+  },
+  {
+    "name": "Martinez Lucia",
+    "img": "martinezlucia.jpg",
+    "email": "lucia.martinez@ecal.ch"
+  },
+  {
+    "name": "Martinez Santiago",
+    "img": "MartinezSantiago.jpg",
+    "email": "santiago.martinez@ecal.ch"
+  },
+  {
+    "name": "Mascolo Emmanuel",
+    "img": "MascoloEmmanuel.jpg",
+    "email": "emmanuel.mascolo@ecal.ch"
+  },
+  {
+    "name": "Massa Gaetano",
+    "img": "?",
+    "email": "gaetano.massa@ecal.ch"
+  },
+  {
+    "name": "Massara David",
+    "img": "MassaraDavid.jpg",
+    "email": "david.massara@ecal.ch"
+  },
+  {
+    "name": "Mateos Vidal",
+    "img": "MateosVidal.jpg",
+    "email": "vidal.mateos@ecal.ch"
+  },
+  {
+    "name": "Matos Sébastien",
+    "img": "MatosSebastien.jpg",
+    "email": "sebastien.matos@ecal.ch"
+  },
+  {
+    "name": "Matthey Assadour",
+    "img": "MattheyAssadour.jpg",
+    "email": "assadour.matthey@ecal.ch"
+  },
+  {
+    "name": "Matulis Mindaugas",
+    "img": "?",
+    "email": "mindaugas.matulis@ecal.ch"
+  },
+  {
+    "name": "Maupu Anouk",
+    "img": "MaupuAnouk.jpg",
+    "email": "anouk.maupu@ecal.ch"
+  },
+  {
+    "name": "Mayor Pauline",
+    "img": "MAYORPAULINE.jpg",
+    "email": "pauline.mayor@ecal.ch"
+  },
+  {
+    "name": "Meha Ardita",
+    "img": "MEHAARDITA.jpg",
+    "email": "ardita.meha@ecal.ch"
+  },
+  {
+    "name": "Meldem Guy",
+    "img": "MeldemGuy.jpg",
+    "email": "guy.meldem@ecal.ch"
+  },
+  {
+    "name": "Membrez Manon",
+    "img": "MembrezManon.jpg",
+    "email": "manon.membrez@ecal.ch"
+  },
+  {
+    "name": "Menthonnex Juliette",
+    "img": "MENTHONNEXJULIETTE.jpg",
+    "email": "juliette.menthonnex@ecal.ch"
+  },
+  {
+    "name": "Menthonnex Théodora",
+    "img": "MenthonnexTheodora.jpg",
+    "email": "theodora.menthonnex@ecal.ch"
+  },
+  {
+    "name": "Mercier Jeanne",
+    "img": "MercierJeanne.jpg",
+    "email": "jeanne.mercier@ecal.ch"
+  },
+  {
+    "name": "Merino Ignacio",
+    "img": "MerinoIgnacio.jpg",
+    "email": "ignacio.merino@ecal.ch"
+  },
+  {
+    "name": "Merlini Nikita",
+    "img": "?",
+    "email": "nikita.merlini@ecal.ch"
+  },
+  {
+    "name": "Mersmann Fanny",
+    "img": "MersmannFanny.jpg",
+    "email": "fanny.mersmann@ecal.ch"
+  },
+  {
+    "name": "Meschi Valerio",
+    "img": "MeschiValerio.jpg",
+    "email": "valerio.meschi@ecal.ch"
+  },
+  {
+    "name": "Meyer Myriam",
+    "img": "MeyerMyriam.jpg",
+    "email": "myriam.meyer@ecal.ch"
+  },
+  {
+    "name": "Minguet Matthieu",
+    "img": "MinguetMatthieu.jpg",
+    "email": "matthieu.minguet@ecal.ch"
+  },
+  {
+    "name": "Mirambeau Charly",
+    "img": "?",
+    "email": "charly.mirambeau@ecal.ch"
+  },
+  {
+    "name": "Missé Thomas",
+    "img": "MisseThomas.jpg",
+    "email": "thomas.misse@ecal.ch"
+  },
+  {
+    "name": "Mityukova Anastasia",
+    "img": "MITYUKOVAANASTASIA.jpg",
+    "email": "anastasia.mityukova@ecal.ch"
+  },
+  {
+    "name": "Mizuno Sayaka",
+    "img": "MizunoSayaka.jpg",
+    "email": "sayaka.mizuno@ecal.ch"
+  },
+  {
+    "name": "Mognetti Robin",
+    "img": "MognettiRobin.jpg",
+    "email": "robin.mognetti@ecal.ch"
+  },
+  {
+    "name": "Mohammed Forster Sherian",
+    "img": "MOHAMMEDFORSTERSHERIAN.jpg",
+    "email": "sherian.mohammed_forster@ecal.ch"
+  },
+  {
+    "name": "Moine Elisa",
+    "img": "?",
+    "email": "elisa.moine@ecal.ch"
+  },
+  {
+    "name": "Moisdon Stéphanie",
+    "img": "MoisdonStephanie.jpg",
+    "email": "stephanie.moisdon@ecal.ch"
+  },
+  {
+    "name": "Molnár Dávid",
+    "img": "?",
+    "email": "david.molnar@ecal.ch"
+  },
+  {
+    "name": "Monnet David",
+    "img": "MonnetDavid.jpg",
+    "email": "david.monnet@ecal.ch"
+  },
+  {
+    "name": "Monnier Patrick",
+    "img": "MonnierPatrick.jpg",
+    "email": "patrick.monnier@ecal.ch"
+  },
+  {
+    "name": "Monot Julie",
+    "img": "?",
+    "email": "julie.monot@ecal.ch"
+  },
+  {
+    "name": "Moser Thea",
+    "img": "?",
+    "email": "thea.moser@ecal.ch"
+  },
+  {
+    "name": "Mottini Flora",
+    "img": "MottiniFlora.jpg",
+    "email": "flora.mottini@ecal.ch"
+  },
+  {
+    "name": "Mouralinho Antonio",
+    "img": "MourlinhoAntonio.jpg",
+    "email": "antonio.mouralinho@ecal.ch"
+  },
+  {
+    "name": "Mousset Mélodie",
+    "img": "?",
+    "email": "melodie.mousset@ecal.ch"
+  },
+  {
+    "name": "Mouthon Bastien",
+    "img": "MOUTHONBASTIEN.jpg",
+    "email": "bastien.mouthon@ecal.ch"
+  },
+  {
+    "name": "Moynier Victor",
+    "img": "MoynierVictor.jpg",
+    "email": "victor.moynier@ecal.ch"
+  },
+  {
+    "name": "Munoz Rodrigo",
+    "img": "MunozRodrigo.jpg",
+    "email": "rodrigo.munoz@ecal.ch"
+  },
+  {
+    "name": "Muselier Fanélie",
+    "img": "MuselierFanelie.jpg",
+    "email": "fanelie.muselier@ecal.ch"
+  },
+  {
+    "name": "Mustaki Léa",
+    "img": "MustakiLea.jpg",
+    "email": "lea.mustaki@ecal.ch"
+  },
+  {
+    "name": "Mégevand Tatiana",
+    "img": "MegevandTatiana.jpg",
+    "email": "tatiana.megevand@ecal.ch"
+  },
+  {
+    "name": "Möwes Eliot",
+    "img": "MöwesEliot.jpg",
+    "email": "eliot.mowes@ecal.ch"
+  },
+  {
+    "name": "Nagy Gregory",
+    "img": "NagyGregory.jpg",
+    "email": "gregory.nagy@ecal.ch"
+  },
+  {
+    "name": "Naito Agathe",
+    "img": "?",
+    "email": "agathe.naito@ecal.ch"
+  },
+  {
+    "name": "Nam Eunwook",
+    "img": "NamEunwook.jpg",
+    "email": "eunwook.nam@ecal.ch"
+  },
+  {
+    "name": "Nassisi Dimitri",
+    "img": "NASSISIDIMITRI.jpg",
+    "email": "dimitri.nassisi@ecal.ch"
+  },
+  {
+    "name": "Nguyen Dac Hanh",
+    "img": "NguyenDacHanh.jpg",
+    "email": "dac_hanh.nguyen@ecal.ch"
+  },
+  {
+    "name": "Nguyen Huu Thaïs",
+    "img": "?",
+    "email": "thais.nguyen_huu@ecal.ch"
+  },
+  {
+    "name": "Nguyen Quang Vinh",
+    "img": "NguyenQuangVinh.jpg",
+    "email": "quang_vinh.nguyen@ecal.ch"
+  },
+  {
+    "name": "Nicolao Federico",
+    "img": "?",
+    "email": "federico.nicolao@ecal.ch"
+  },
+  {
+    "name": "Niebling Carolien",
+    "img": "NieblingCarolien.jpg",
+    "email": "carolien.niebling@ecal.ch"
+  },
+  {
+    "name": "Niederberger Leila",
+    "img": "NiederbergerLeila.jpg",
+    "email": "leila.niederberger@ecal.ch"
+  },
+  {
+    "name": "Nimier Alice",
+    "img": "NimierAlice.jpg",
+    "email": "alice.nimier@ecal.ch"
+  },
+  {
+    "name": "Noh Miji",
+    "img": "NohMiji.jpg",
+    "email": "miji.noh@ecal.ch"
+  },
+  {
+    "name": "Normand Vincent",
+    "img": "NormandVincent.jpg",
+    "email": "vincent.normand@ecal.ch"
+  },
+  {
+    "name": "Nougou Lynne",
+    "img": "NougouLynne.jpg",
+    "email": "lynne.nougou@ecal.ch"
+  },
+  {
+    "name": "Nouktah Oubadah",
+    "img": "NouktahOubadah.jpg",
+    "email": "oubadah.nouktah@ecal.ch"
+  },
+  {
+    "name": "Noureldin Karim",
+    "img": "NoureldinKarim.jpg",
+    "email": "karim.noureldin@ecal.ch"
+  },
+  {
+    "name": "Noury Marie",
+    "img": "?",
+    "email": "marie.noury@ecal.ch"
+  },
+  {
+    "name": "Novelli Manon",
+    "img": "NovelliManon.jpg",
+    "email": "manon.novelli@ecal.ch"
+  },
+  {
+    "name": "Noël Paul",
+    "img": "NoelPaul.jpg",
+    "email": "paul.noel@ecal.ch"
+  },
+  {
+    "name": "Noël Rachel",
+    "img": "NoelRachel.jpg",
+    "email": "rachel.noel@ecal.ch"
+  },
+  {
+    "name": "Orselli Arthur",
+    "img": "?",
+    "email": "arthur.orselli@ecal.ch"
+  },
+  {
+    "name": "Ospelt Pascal",
+    "img": "OspeltPascal.jpg",
+    "email": "pascal.ospelt@ecal.ch"
+  },
+  {
+    "name": "Paccaud Simon",
+    "img": "Paccaud Simon.jpg",
+    "email": "simon.paccaud@ecal.ch"
+  },
+  {
+    "name": "Pacheco Catarina",
+    "img": "PachecoCatarina.jpg",
+    "email": "catarina.pacheco@ecal.ch"
+  },
+  {
+    "name": "Pahud Christian",
+    "img": "PahudChristian.jpg",
+    "email": "christian.pahud@ecal.ch"
+  },
+  {
+    "name": "Palauqui Mathieu",
+    "img": "PalauquiMathieu.jpg",
+    "email": "mathieu.palauqui@ecal.ch"
+  },
+  {
+    "name": "Paltenghi Niki",
+    "img": "?",
+    "email": "niki.paltenghi@ecal.ch"
+  },
+  {
+    "name": "Panchot Emma",
+    "img": "PANCHOTEMMA.jpg",
+    "email": "emma.panchot@ecal.ch"
+  },
+  {
+    "name": "Papaloïzos Lou-Théa",
+    "img": "PapaloizosLouThea.jpg",
+    "email": "lou-thea.papaloizos@ecal.ch"
+  },
+  {
+    "name": "Park Ji Hong",
+    "img": "ParkJiHong.jpg",
+    "email": "ji_hong.park@ecal.ch"
+  },
+  {
+    "name": "Park Shin Young",
+    "img": "ParkShinYoung.jpg",
+    "email": "shin_young.park@ecal.ch"
+  },
+  {
+    "name": "Park Taeman",
+    "img": "ParkTaeman.jpg",
+    "email": "taeman.park@ecal.ch"
+  },
+  {
+    "name": "Paulot Thomas",
+    "img": "PaulotThomas.jpg",
+    "email": "thomas.paulot@ecal.ch"
+  },
+  {
+    "name": "Pavia Guillaume",
+    "img": "?",
+    "email": "guillaume.pavia@ecal.ch"
+  },
+  {
+    "name": "Paviani Federico",
+    "img": "PavianiFederico.jpg",
+    "email": "federico.paviani@ecal.ch"
+  },
+  {
+    "name": "Pavlík Yan",
+    "img": "PavlikYan.jpg",
+    "email": "yan.pavlik@ecal.ch"
+  },
+  {
+    "name": "Pedrazzi Aline",
+    "img": "PedrazziAline.jpg",
+    "email": "aline.pedrazzi@ecal.ch"
+  },
+  {
+    "name": "Pellandini Naomi",
+    "img": "PellandiniNaomi.jpg",
+    "email": "naomi.pellandini@ecal.ch"
+  },
+  {
+    "name": "Pellegrini Aurélien",
+    "img": "PellegriniAurelien.jpg",
+    "email": "aurelien.pellegrini@ecal.ch"
+  },
+  {
+    "name": "Pellegrini Luca",
+    "img": "?",
+    "email": "luca.pellegrini@ecal.ch"
+  },
+  {
+    "name": "Pellegrini Maximilien",
+    "img": "PELLEGRINIMAXIMILIEN.jpg",
+    "email": "maximilien.pellegrini@ecal.ch"
+  },
+  {
+    "name": "Pereyre Léa",
+    "img": "PereyreLea.jpg",
+    "email": "lea.pereyre@ecal.ch"
+  },
+  {
+    "name": "Perhirin Samuel",
+    "img": "PerhirinSamuel.jpg",
+    "email": "samuel.perhirin@ecal.ch"
+  },
+  {
+    "name": "Perrenoud Caroline",
+    "img": "?",
+    "email": "caroline.perrenoud@ecal.ch"
+  },
+  {
+    "name": "Perrenoud Laura",
+    "img": "PerrenoudLaura.jpg",
+    "email": "laura.perrenoud@ecal.ch"
+  },
+  {
+    "name": "Perrenoud Xavier",
+    "img": "PerrenoudXavier.jpg",
+    "email": "xavier.perrenoud@ecal.ch"
+  },
+  {
+    "name": "Perret Pauline",
+    "img": "PerretPauline.jpg",
+    "email": "pauline.perret@ecal.ch"
+  },
+  {
+    "name": "Perriard Lorraine",
+    "img": "PerriardLorraine.jpg",
+    "email": "lorraine.perriard@ecal.ch"
+  },
+  {
+    "name": "Perrin Eugénie",
+    "img": "PerrinEugenie.jpg",
+    "email": "eugenie.perrin@ecal.ch"
+  },
+  {
+    "name": "Perrot Lydia",
+    "img": "PerrotLydia.jpg",
+    "email": "lydia.perrot@ecal.ch"
+  },
+  {
+    "name": "Petit Elric",
+    "img": "PetitElric.jpg",
+    "email": "elric.petit@ecal.ch"
+  },
+  {
+    "name": "Petit Maxime",
+    "img": "PETITMAXIME.jpg",
+    "email": "maxime.petit@ecal.ch"
+  },
+  {
+    "name": "Pezin Ferdinand",
+    "img": "PEZINFERDINAND.jpg",
+    "email": "ferdinand.pezin@ecal.ch"
+  },
+  {
+    "name": "Pfister Jérôme",
+    "img": "PfisterJerome.jpg",
+    "email": "jerome.pfister@ecal.ch"
+  },
+  {
+    "name": "Piasek Anna",
+    "img": "PiasekAnna.jpg",
+    "email": "anna.piasek@ecal.ch"
+  },
+  {
+    "name": "Piau Charlotte",
+    "img": "PiauCharlotte.jpg",
+    "email": "charlotte.piau@ecal.ch"
+  },
+  {
+    "name": "Pic Clément",
+    "img": "PicClement.jpg",
+    "email": "clement.pic@ecal.ch"
+  },
+  {
+    "name": "Pica Michael",
+    "img": "PicaMichael.jpg",
+    "email": "michael.pica@ecal.ch"
+  },
+  {
+    "name": "Picciotto Alexandre",
+    "img": "PicciottoAlexandre.jpg",
+    "email": "alexandre.picciotto@ecal.ch"
+  },
+  {
+    "name": "Piedigrossi Aurore",
+    "img": "PiedigrossiAurore.jpg",
+    "email": "aurore.piedigrossi@ecal.ch"
+  },
+  {
+    "name": "Pietra Enrico",
+    "img": "EnricoPietra.jpg",
+    "email": "enrico.pietra@ecal.ch"
+  },
+  {
+    "name": "Piette Margaux",
+    "img": "PIETTEMARGAUX.jpg",
+    "email": "margaux.piette@ecal.ch"
+  },
+  {
+    "name": "Pilato Olivia",
+    "img": "PILATOOLIVIA.jpg",
+    "email": "olivia.pilato@ecal.ch"
+  },
+  {
+    "name": "Pinto Antonio",
+    "img": "PintoAntonio.jpg",
+    "email": "antonio.pinto@ecal.ch"
+  },
+  {
+    "name": "Plagnard Hugo",
+    "img": "PLAGNARDHUGO.jpg",
+    "email": "hugo.plagnard@ecal.ch"
+  },
+  {
+    "name": "Plantier Benjamin",
+    "img": "PlantierBenjamin.jpg",
+    "email": "benjamin.plantier@ecal.ch"
+  },
+  {
+    "name": "Polak Omer",
+    "img": "PolakOmer.jpg",
+    "email": "omer.polak@ecal.ch"
+  },
+  {
+    "name": "Polito Cécile",
+    "img": "PolitoCecile.jpg",
+    "email": "cecile.polito@ecal.ch"
+  },
+  {
+    "name": "Polli Nicolas",
+    "img": "PolliNicolas.jpg",
+    "email": "nicolas.polli@ecal.ch"
+  },
+  {
+    "name": "Polo Alessandro",
+    "img": "?",
+    "email": "alessandro.polo@ecal.ch"
+  },
+  {
+    "name": "Polo Carrard Alice",
+    "img": "PoloCarrardAlice.jpg",
+    "email": "alice.polo_carrard@ecal.ch"
+  },
+  {
+    "name": "Poloni Carlo Marco",
+    "img": "PoloniMarco.jpg",
+    "email": "marco.poloni@ecal.ch"
+  },
+  {
+    "name": "Ponant Pierre",
+    "img": "?",
+    "email": "pierre.ponant@ecal.ch"
+  },
+  {
+    "name": "Ponce Nicolas",
+    "img": "PonceNicolas.jpg",
+    "email": "nicolas.ponce@ecal.ch"
+  },
+  {
+    "name": "Pongpanatnukul Napat",
+    "img": "PongpanatnukulNapat.jpg",
+    "email": "napat.pongpanatnukul@ecal.ch"
+  },
+  {
+    "name": "Pont Violène",
+    "img": "PontViolene.jpg",
+    "email": "violene.pont@ecal.ch"
+  },
+  {
+    "name": "Pouillot Maxime",
+    "img": "PouillotMaxime.jpg",
+    "email": "maxime.pouillot@ecal.ch"
+  },
+  {
+    "name": "Pouly Lucas",
+    "img": "PoulyLucas.jpg",
+    "email": "lucas.pouly@ecal.ch"
+  },
+  {
+    "name": "Pourchet Jules",
+    "img": "PourchetJules.jpg",
+    "email": "jules.pourchet@ecal.ch"
+  },
+  {
+    "name": "Pricam Johan",
+    "img": "PricamJoham.jpg",
+    "email": "johan.pricam@ecal.ch"
+  },
+  {
+    "name": "Prost Thomas",
+    "img": "ProstThomas.jpg",
+    "email": "thomas.prost@ecal.ch"
+  },
+  {
+    "name": "Proton Noé",
+    "img": "ProtonNoe.jpg",
+    "email": "noe.proton@ecal.ch"
+  },
+  {
+    "name": "Pupille Rodolphe",
+    "img": "PupilleRodolphe.jpg",
+    "email": "rodolphe.pupille@ecal.ch"
+  },
+  {
+    "name": "Putri Maharani",
+    "img": "?",
+    "email": "maharani.putri@ecal.ch"
+  },
+  {
+    "name": "Péry Aurore",
+    "img": "PeryAurore.jpg",
+    "email": "aurore.pery@ecal.ch"
+  },
+  {
+    "name": "Quinche Alizée",
+    "img": "?",
+    "email": "alizee.quinche@ecal.ch"
+  },
+  {
+    "name": "Racaud Julie",
+    "img": "RacaudJulie.jpg",
+    "email": "julie.racaud@ecal.ch"
+  },
+  {
+    "name": "Rachez Jimmy",
+    "img": "RachezJimmy.jpg",
+    "email": "jimmy.rachez@ecal.ch"
+  },
+  {
+    "name": "Rais Lou",
+    "img": "?",
+    "email": "lou.rais@ecal.ch"
+  },
+  {
+    "name": "Rambert-Preiss Lou",
+    "img": "RambertPreissLou.jpg",
+    "email": "lou.rambert-preiss@ecal.ch"
+  },
+  {
+    "name": "Ramirez Aburto Andrea",
+    "img": "RamirezAburtoAndrea.jpg",
+    "email": "andrea.ramirez_aburto@ecal.ch"
+  },
+  {
+    "name": "Rappo François",
+    "img": "RappoFrancois.jpg",
+    "email": "francois.rappo@ecal.ch"
+  },
+  {
+    "name": "Rashid Hanieh",
+    "img": "RASHIDHANIEH.jpg",
+    "email": "hanieh.rashid@ecal.ch"
+  },
+  {
+    "name": "Rebeca Lisa",
+    "img": "RebecaLisa.jpg",
+    "email": "lisa.rebeca@ecal.ch"
+  },
+  {
+    "name": "Reichlin Jillian",
+    "img": "ReichlinJillian.jpg",
+    "email": "jillian.reichlin@ecal.ch"
+  },
+  {
+    "name": "Reis Jorge",
+    "img": "ReisJorge.jpg",
+    "email": "jorge.reis@ecal.ch"
+  },
+  {
+    "name": "Reuter Jakob",
+    "img": "ReuterJakob.jpg",
+    "email": "jakob.reuter@ecal.ch"
+  },
+  {
+    "name": "Rey Raphaèle",
+    "img": "ReyRaphaele.jpg",
+    "email": "raphaele.rey@ecal.ch"
+  },
+  {
+    "name": "Reynaud Fanny",
+    "img": "ReynaudFanny.jpg",
+    "email": "fanny.reynaud@ecal.ch"
+  },
+  {
+    "name": "Reynaud Jean",
+    "img": "ReynaudJean.jpg",
+    "email": "jean.reynaud@ecal.ch"
+  },
+  {
+    "name": "Ribeiro Elisa",
+    "img": "RibeiroElisa.jpg",
+    "email": "elisa.ribeiro@ecal.ch"
+  },
+  {
+    "name": "Rieckhoff Yohanna",
+    "img": "RIECKHOFFYOHANNA.jpg",
+    "email": "yohanna.rieckhoff@ecal.ch"
+  },
+  {
+    "name": "Rieder Justine",
+    "img": "RiederJustine.jpg",
+    "email": "justine.rieder@ecal.ch"
+  },
+  {
+    "name": "Rigoni Marco",
+    "img": "?",
+    "email": "marco.rigoni@ecal.ch"
+  },
+  {
+    "name": "Rihs Tatiana",
+    "img": "RihsTatiana.jpg",
+    "email": "tatiana.rihs@ecal.ch"
+  },
+  {
+    "name": "Rochat Korlei",
+    "img": "RochatKorlei.jpg",
+    "email": "korlei.rochat@ecal.ch"
+  },
+  {
+    "name": "Rochereau Hanna",
+    "img": "ROCHEREAUHANNA.jpg",
+    "email": "hanna.rochereau@ecal.ch"
+  },
+  {
+    "name": "Ross Callum",
+    "img": "ROSSCALLUM.jpg",
+    "email": "callum.ross@ecal.ch"
+  },
+  {
+    "name": "Rossel Benoît",
+    "img": "RosselBenoit.jpg",
+    "email": "benoit.rossel@ecal.ch"
+  },
+  {
+    "name": "Roucoules Romain",
+    "img": "RoucoulesRomain.jpg",
+    "email": "romain.roucoules@ecal.ch"
+  },
+  {
+    "name": "Roueche Denis",
+    "img": "Roueche Denis.jpg",
+    "email": "denis.roueche@ecal.ch"
+  },
+  {
+    "name": "Rougerie Estelle",
+    "img": "RougerieEstelle.jpg",
+    "email": "estelle.rougerie@ecal.ch"
+  },
+  {
+    "name": "Roumégoux Clara",
+    "img": "?",
+    "email": "clara.roumegoux@ecal.ch"
+  },
+  {
+    "name": "Rousseau Félicien",
+    "img": "RousseauFelicien.jpg",
+    "email": "felicien.rousseau@ecal.ch"
+  },
+  {
+    "name": "Rousset Clémentine",
+    "img": "RoussetClementine.jpg",
+    "email": "clementine.rousset@ecal.ch"
+  },
+  {
+    "name": "Rovero Adrien",
+    "img": "RoveroAdrien.jpg",
+    "email": "adrien.rovero@ecal.ch"
+  },
+  {
+    "name": "Roversi Paolo",
+    "img": "?",
+    "email": "paolo.roversi@ecal.ch"
+  },
+  {
+    "name": "Roy Cantu Yatoni",
+    "img": "RoyCantuYatoni.jpg",
+    "email": "yatoni.roy_cantu@ecal.ch"
+  },
+  {
+    "name": "Rubini Colombe",
+    "img": "RubiniColombe.jpg",
+    "email": "colombe.rubini@ecal.ch"
+  },
+  {
+    "name": "Rudaz Jodie",
+    "img": "RudazJodie.jpg",
+    "email": "jodie.rudaz@ecal.ch"
+  },
+  {
+    "name": "Rutz Noelani",
+    "img": "RutzNoelani.jpg",
+    "email": "noelani.rutz@ecal.ch"
+  },
+  {
+    "name": "Ryser Julie",
+    "img": "?",
+    "email": "julie.ryser@ecal.ch"
+  },
+  {
+    "name": "Rüthy Steven",
+    "img": "?",
+    "email": "steven.ruthy@ecal.ch"
+  },
+  {
+    "name": "Saccardi Julietta",
+    "img": "?",
+    "email": "julietta.saccardi@ecal.ch"
+  },
+  {
+    "name": "Sack Aurèle",
+    "img": "SackAurele.jpg",
+    "email": "aurele.sack@ecal.ch"
+  },
+  {
+    "name": "Saglio Pauline",
+    "img": "SaglioPauline.jpg",
+    "email": "pauline.saglio@ecal.ch"
+  },
+  {
+    "name": "Saillen Alexia",
+    "img": "?",
+    "email": "alexia.saillen@ecal.ch"
+  },
+  {
+    "name": "Saleh Kenza",
+    "img": "SalehKenza.jpg",
+    "email": "kenza.saleh@ecal.ch"
+  },
+  {
+    "name": "Sandahl Simone",
+    "img": "JensenSimoneSandahl.jpg",
+    "email": "simone.sandahl@ecal.ch"
+  },
+  {
+    "name": "Sassoli De Bianchi Luca",
+    "img": "SassoliDeBianchiLuca.jpg",
+    "email": "luca.sassoli_de_bianchi@ecal.ch"
+  },
+  {
+    "name": "Savary Denis",
+    "img": "SavaryDenis.jpg",
+    "email": "denis.savary@ecal.ch"
+  },
+  {
+    "name": "Scalea Luca",
+    "img": "ScaleaLuca.jpg",
+    "email": "luca.scalea@ecal.ch"
+  },
+  {
+    "name": "Schaer Julie",
+    "img": "SCHAERJULIE.jpg",
+    "email": "julie.schaer@ecal.ch"
+  },
+  {
+    "name": "Schalcher Fabienne",
+    "img": "SchalcherFabienne.jpg",
+    "email": "fabienne.schalcher@ecal.ch"
+  },
+  {
+    "name": "Schaub Nadine",
+    "img": "SCHAUBNADINE.jpg",
+    "email": "nadine.schaub@ecal.ch"
+  },
+  {
+    "name": "Schenker Olivia",
+    "img": "SCHENKEROLIVIA.jpg",
+    "email": "olivia.schenker@ecal.ch"
+  },
+  {
+    "name": "Scherler Jennifer Merlyn",
+    "img": "?",
+    "email": "jennifer.scherler@ecal.ch"
+  },
+  {
+    "name": "Schertenleib Andréa",
+    "img": "SchertenleibAndrea.jpg",
+    "email": "andrea.schertenleib@ecal.ch"
+  },
+  {
+    "name": "Schilter Guillaume",
+    "img": "SchilterGuillaume.jpg",
+    "email": "guillaume.schilter@ecal.ch"
+  },
+  {
+    "name": "Schmidt Samuel",
+    "img": "?",
+    "email": "samuel.schmidt@ecal.ch"
+  },
+  {
+    "name": "Schmitt Philippa",
+    "img": "SchmittPhilippa.jpg",
+    "email": "philippa.schmitt@ecal.ch"
+  },
+  {
+    "name": "Schneider Anouk",
+    "img": "?",
+    "email": "anouk.schneider@ecal.ch"
+  },
+  {
+    "name": "Schneider Lucie",
+    "img": "SchneiderLucie.jpg",
+    "email": "lucie.schneider@ecal.ch"
+  },
+  {
+    "name": "Schneider Pauline",
+    "img": "SchneiderPauline.jpg",
+    "email": "pauline.schneider@ecal.ch"
+  },
+  {
+    "name": "Schopfer Alan",
+    "img": "SchopferAlan.jpg",
+    "email": "alan.schopfer@ecal.ch"
+  },
+  {
+    "name": "Schulz Christian",
+    "img": "SchulzChristian.jpg",
+    "email": "christian.schulz@ecal.ch"
+  },
+  {
+    "name": "Scott de Martinville Augustin",
+    "img": "ScottdeMartinvilleAugustin.jpg",
+    "email": "augustin.scott@ecal.ch"
+  },
+  {
+    "name": "Seguin Arthur",
+    "img": "?",
+    "email": "arthur.seguin@ecal.ch"
+  },
+  {
+    "name": "Sgandurra Adrien",
+    "img": "SgandurraAdrien.jpg",
+    "email": "adrien.sgandurra@ecal.ch"
+  },
+  {
+    "name": "Shi Shuhui",
+    "img": "?",
+    "email": "shuhui.shi@ecal.ch"
+  },
+  {
+    "name": "Sidler Yaël",
+    "img": "SidlerYael.jpg",
+    "email": "yael.sidler@ecal.ch"
+  },
+  {
+    "name": "Sieber Valentin",
+    "img": "SieberValentin.jpg",
+    "email": "valentin.sieber@ecal.ch"
+  },
+  {
+    "name": "Sigurdarson Brynjar",
+    "img": "SigurdarsonBrynjar.jpg",
+    "email": "brynjar.sigurdarson@ecal.ch"
+  },
+  {
+    "name": "Simeon Eugénie",
+    "img": "SimeonEugenie.jpg",
+    "email": "eugenie.simeon@ecal.ch"
+  },
+  {
+    "name": "Simmen Guillaume",
+    "img": "SimmenGuillaume.jpg",
+    "email": "guillaume.simmen@ecal.ch"
+  },
+  {
+    "name": "Simon Theodore",
+    "img": "SimonTheodore.jpg",
+    "email": "theodore.simon@ecal.ch"
+  },
+  {
+    "name": "Simond Senta",
+    "img": "SimondSenta.jpg",
+    "email": "senta.simond@ecal.ch"
+  },
+  {
+    "name": "Sinclair Léonard",
+    "img": "SinclairLeonard.jpg",
+    "email": "leonard.sinclair@ecal.ch"
+  },
+  {
+    "name": "Sirtl Maximilian",
+    "img": "SirtlMaximilian.jpg",
+    "email": "maximilian.sirtl@ecal.ch"
+  },
+  {
+    "name": "Sistek Virginie",
+    "img": "SistekVirginie.jpg",
+    "email": "virginie.sistek@ecal.ch"
+  },
+  {
+    "name": "Sivakumar Keerthigan",
+    "img": "?",
+    "email": "keerthigan.sivakumar@ecal.ch"
+  },
+  {
+    "name": "Smith Nora",
+    "img": "SMITHNORA.jpg",
+    "email": "nora.smith@ecal.ch"
+  },
+  {
+    "name": "Soavelo Fabiola",
+    "img": "SOAVELOFABIOLA.jpg",
+    "email": "fabiola.soavelo@ecal.ch"
+  },
+  {
+    "name": "Sobgoui Malik",
+    "img": "SobgouiMalik.jpg",
+    "email": "malik.sobgoui@ecal.ch"
+  },
+  {
+    "name": "Soldini Laurent",
+    "img": "SoldiniLaurent.jpg",
+    "email": "laurent.soldini@ecal.ch"
+  },
+  {
+    "name": "Solleciti Vittorio",
+    "img": "SollecitiVittorio.jpg",
+    "email": "vittorio.solleciti@ecal.ch"
+  },
+  {
+    "name": "Sonnier Jean-Guillaume",
+    "img": "SonnierJeanGuillaume.jpg",
+    "email": "jean_guillaume.sonnier@ecal.ch"
+  },
+  {
+    "name": "Sonoda Takako",
+    "img": "SonodaTakako.jpg",
+    "email": "takako.sonoda@ecal.ch"
+  },
+  {
+    "name": "Soriano Noémie",
+    "img": "SorianoNoemie.jpg",
+    "email": "noemie.soriano@ecal.ch"
+  },
+  {
+    "name": "Sparkes Margot",
+    "img": "SparkesMargot.jpg",
+    "email": "margot.sparkes@ecal.ch"
+  },
+  {
+    "name": "Spini Iacopo",
+    "img": "?",
+    "email": "iacopo.spini@ecal.ch"
+  },
+  {
+    "name": "Spycher Hélène",
+    "img": "?",
+    "email": "helene.spycher@ecal.ch"
+  },
+  {
+    "name": "Stauffer Isabelle",
+    "img": "STAUFFERISABELLE.jpg",
+    "email": "isabelle.stauffer@ecal.ch"
+  },
+  {
+    "name": "Steffen  Yoo-Mi",
+    "img": "SteffenYooMi.jpg",
+    "email": "yoo-mi.steffen@ecal.ch"
+  },
+  {
+    "name": "Steinmetz Célia",
+    "img": "SteinmetzCelia.jpg",
+    "email": "celia.steinmetz@ecal.ch"
+  },
+  {
+    "name": "Stephan Matthieu",
+    "img": "StephanMatthieu.jpg",
+    "email": "matthieu.stephan@ecal.ch"
+  },
+  {
+    "name": "Stoll Emilie",
+    "img": "StollEmilie.jpg",
+    "email": "emilie.stoll@ecal.ch"
+  },
+  {
+    "name": "Stoudmann Maurine",
+    "img": "StoudmannMaurine.jpg",
+    "email": "maurine.stoudmann@ecal.ch"
+  },
+  {
+    "name": "Stricker Martin",
+    "img": "StrickerMartin.jpg",
+    "email": "martin.stricker@ecal.ch"
+  },
+  {
+    "name": "Swierczynski Robert",
+    "img": "SwierczynskiRobert.jpg",
+    "email": "robert.swierczynski@ecal.ch"
+  },
+  {
+    "name": "Szotyori Richard",
+    "img": "SzotyoriRichard.jpg",
+    "email": "richard.szotyori@ecal.ch"
+  },
+  {
+    "name": "Tadic Stefan",
+    "img": "?",
+    "email": "stefan.tadic@ecal.ch"
+  },
+  {
+    "name": "Takahashi Go",
+    "img": "TakahashiGo.jpg",
+    "email": "go.takahashi@ecal.ch"
+  },
+  {
+    "name": "Takács Benedek",
+    "img": "?",
+    "email": "benedek.takacs@ecal.ch"
+  },
+  {
+    "name": "Tamura Nanasari",
+    "img": "TamuraNanasari.jpg",
+    "email": "nanasari.tamura@ecal.ch"
+  },
+  {
+    "name": "Tanari Celestin",
+    "img": "TanariCelestin.jpg",
+    "email": "celestin.tanari@ecal.ch"
+  },
+  {
+    "name": "Tanase Stefan",
+    "img": "TanaseStefan.jpg",
+    "email": "stefan.tanase@ecal.ch"
+  },
+  {
+    "name": "Tardy Lionel",
+    "img": "TardyLionel.jpg",
+    "email": "lionel.tardy@ecal.ch"
+  },
+  {
+    "name": "Tasula Maria",
+    "img": "TasulaMari.jpg",
+    "email": "maria.tasula@ecal.ch"
+  },
+  {
+    "name": "Taylor Alexander",
+    "img": "?",
+    "email": "alexander.taylor@ecal.ch"
+  },
+  {
+    "name": "Teboul Arthur",
+    "img": "TeboulArthur.jpg",
+    "email": "arthur.teboul@ecal.ch"
+  },
+  {
+    "name": "Teixeira da Silva André",
+    "img": "TeixeiradaSilvaAndre.jpg",
+    "email": "andre.teixeira_da_silva@ecal.ch"
+  },
+  {
+    "name": "Tevaearai Deodaat",
+    "img": "TevaearaiDeodaat.jpg",
+    "email": "deodaat.tevaearai@ecal.ch"
+  },
+  {
+    "name": "Thanaworrawatniti Terat",
+    "img": "ThanaworrawatnitiTerat.jpg",
+    "email": "terat.thanaworrawatniti@ecal.ch"
+  },
+  {
+    "name": "Therond Clara",
+    "img": "THERONDCLARA.jpg",
+    "email": "clara.therond@ecal.ch"
+  },
+  {
+    "name": "Therond Mélanie",
+    "img": "TherondMelanie.jpg",
+    "email": "melanie.therond@ecal.ch"
+  },
+  {
+    "name": "Theus Michaela",
+    "img": "?",
+    "email": "michaela.theus@ecal.ch"
+  },
+  {
+    "name": "Thouvenin Diane",
+    "img": "ThouveninDiane.jpg",
+    "email": "diane.thouvenin@ecal.ch"
+  },
+  {
+    "name": "Thórisdóttir Sunna",
+    "img": "ThorisdottirSunna.jpg",
+    "email": "sunna.thorisdottir@ecal.ch"
+  },
+  {
+    "name": "Tiffert Timo",
+    "img": "?",
+    "email": "timo.tiffert@ecal.ch"
+  },
+  {
+    "name": "Tissot Kelly",
+    "img": "TISSOTKELLY.jpg",
+    "email": "kelly.tissot@ecal.ch"
+  },
+  {
+    "name": "Tomatala Yul",
+    "img": "TomatalaYul.jpg",
+    "email": "yul.tomatala@ecal.ch"
+  },
+  {
+    "name": "Tomatis Davide",
+    "img": "TomatisDavide.jpg",
+    "email": "davide.tomatis@ecal.ch"
+  },
+  {
+    "name": "Tran Alex",
+    "img": "TranAlex.jpg",
+    "email": "alex.tran@ecal.ch"
+  },
+  {
+    "name": "Trieu Chi-Long",
+    "img": "TrieuChiLong.jpg",
+    "email": "chi-long.trieu@ecal.ch"
+  },
+  {
+    "name": "Tronchot Charlotte",
+    "img": "TRONCHOTCHARLOTTE.jpg",
+    "email": "charlotte.tronchot@ecal.ch"
+  },
+  {
+    "name": "Trotobas Alexandra",
+    "img": "TrotobasAlexandra.jpg",
+    "email": "alexandra.trotobas@ecal.ch"
+  },
+  {
+    "name": "Trummer Laura",
+    "img": "?",
+    "email": "laura.trummer@ecal.ch"
+  },
+  {
+    "name": "Tschudi David",
+    "img": "TschudiDavid.jpg",
+    "email": "david.tschudi@ecal.ch"
+  },
+  {
+    "name": "Tuo Lei",
+    "img": "TuoLei.jpg",
+    "email": "lei.tuo@ecal.ch"
+  },
+  {
+    "name": "Udry Nicole",
+    "img": "UdryNicole.jpg",
+    "email": "nicole.udry@ecal.ch"
+  },
+  {
+    "name": "Udvari Tibor",
+    "img": "UdvariTibor.jpg",
+    "email": "tibor.udvari@ecal.ch"
+  },
+  {
+    "name": "Ugarte Vallejos Remy",
+    "img": "UGARTEREMY.jpg",
+    "email": "remy.ugarte@ecal.ch"
+  },
+  {
+    "name": "Uldry Andréa",
+    "img": "UldryAndrea.jpg",
+    "email": "andrea.uldry@ecal.ch"
+  },
+  {
+    "name": "Ulmann Tara",
+    "img": "UlmannTara.jpg",
+    "email": "tara.ulmann@ecal.ch"
+  },
+  {
+    "name": "Vacheron Joël",
+    "img": "VacheronJoel.jpg",
+    "email": "joel.vacheron@ecal.ch"
+  },
+  {
+    "name": "Vadi Pierre",
+    "img": "VadiPierre.jpg",
+    "email": "pierre.vadi@ecal.ch"
+  },
+  {
+    "name": "Valladares Ralph Ethan",
+    "img": "ValladaresEthan.jpg",
+    "email": "ethan.valladares@ecal.ch"
+  },
+  {
+    "name": "Vallotton Yael",
+    "img": "?",
+    "email": "yael.vallotton@ecal.ch"
+  },
+  {
+    "name": "Vanini Martina",
+    "img": "VaniniMartina.jpg",
+    "email": "martina.vanini@ecal.ch"
+  },
+  {
+    "name": "Vanuzzo Kylia",
+    "img": "VanuzzoKylia.jpg",
+    "email": "kylia.vanuzzo@ecal.ch"
+  },
+  {
+    "name": "Vauthey Antoine",
+    "img": "VautheyAntoine.jpg",
+    "email": "antoine.vauthey@ecal.ch"
+  },
+  {
+    "name": "Velloni Leo",
+    "img": "VelloniLeo.jpg",
+    "email": "leo.velloni@ecal.ch"
+  },
+  {
+    "name": "Verity William",
+    "img": "VerityWilliam.jpg",
+    "email": "william.verity@ecal.ch"
+  },
+  {
+    "name": "Vermot Adeline",
+    "img": "?",
+    "email": "adeline.vermot@ecal.ch"
+  },
+  {
+    "name": "Vernier Manon",
+    "img": "VERNIERMANON.jpg",
+    "email": "manon.vernier@ecal.ch"
+  },
+  {
+    "name": "Vescan Andreea",
+    "img": "VescanAndreea.jpg",
+    "email": "andreea.vescan@ecal.ch"
+  },
+  {
+    "name": "Vignet Corentin",
+    "img": "VignetCorentin.jpg",
+    "email": "corentin.vignet@ecal.ch"
+  },
+  {
+    "name": "Villars Eliott",
+    "img": "VillarsEliott.jpg",
+    "email": "eliott.villars@ecal.ch"
+  },
+  {
+    "name": "Vilutis Justinas",
+    "img": "VilutisJustinas.jpg",
+    "email": "justinas.vilutis@ecal.ch"
+  },
+  {
+    "name": "Viriot Lucie",
+    "img": "ViriotLucie.jpg",
+    "email": "lucie.viriot@ecal.ch"
+  },
+  {
+    "name": "Virág Tamara",
+    "img": "ViragTamara.jpg",
+    "email": "tamara.virag@ecal.ch"
+  },
+  {
+    "name": "Vogel Nathan",
+    "img": "VogelNathan.jpg",
+    "email": "nathan.vogel@ecal.ch"
+  },
+  {
+    "name": "Volkart Loïc",
+    "img": "VolkartLoic.jpg",
+    "email": "loic.volkart@ecal.ch"
+  },
+  {
+    "name": "Von Rickenbach Mario",
+    "img": "VonRickenbachMario..jpg",
+    "email": "mario.von_rickenbach@ecal.ch"
+  },
+  {
+    "name": "Vuilleumier Léonard",
+    "img": "VuilleumierLéonard.jpg",
+    "email": "leonard.vuilleumier@ecal.ch"
+  },
+  {
+    "name": "Wagnières Elsa",
+    "img": "WagnieresElsa.jpg",
+    "email": "elsa.wagnieres@ecal.ch"
+  },
+  {
+    "name": "Wahler Loris",
+    "img": "?",
+    "email": "loris.wahler@ecal.ch"
+  },
+  {
+    "name": "Walcher Maëlle",
+    "img": "WalcherMaelle.jpg",
+    "email": "maelle.walcher@ecal.ch"
+  },
+  {
+    "name": "Wandeler Jonas",
+    "img": "?",
+    "email": "jonas.wandeler@ecal.ch"
+  },
+  {
+    "name": "Weber Selina",
+    "img": "WeberSelina.jpg",
+    "email": "selina.weber@ecal.ch"
+  },
+  {
+    "name": "Wegmüller Julien",
+    "img": "WegmullerJulien.jpg",
+    "email": "julien.wegmueller@ecal.ch"
+  },
+  {
+    "name": "Weibel Amélie",
+    "img": "WeibelAmelie.jpg",
+    "email": "amelie.weibel@ecal.ch"
+  },
+  {
+    "name": "Weibull Tor",
+    "img": "?",
+    "email": "tor.weibull@ecal.ch"
+  },
+  {
+    "name": "Widmer Cédric",
+    "img": "WidmerCedric.jpg",
+    "email": "cedric.widmer@ecal.ch"
+  },
+  {
+    "name": "Wiedmer Madeleine",
+    "img": "WiedmerMadeleine.jpg",
+    "email": "madeleine.wiedmer@ecal.ch"
+  },
+  {
+    "name": "Wiig Hansen Nicholai",
+    "img": "WiigHansenNicholai .2.jpg",
+    "email": "nicholai.wiig_hansen@ecal.ch"
+  },
+  {
+    "name": "Willa Justine",
+    "img": "?",
+    "email": "justine.willa@ecal.ch"
+  },
+  {
+    "name": "Woeffray Valentin",
+    "img": "WoeffrayValentin.jpg",
+    "email": "valentin.woeffray@ecal.ch"
+  },
+  {
+    "name": "Wéry Jeanne",
+    "img": "WeryJeanne.jpg",
+    "email": "jeanne.wery@ecal.ch"
+  },
+  {
+    "name": "Wünsche Olivia",
+    "img": "WunscheOlivia.jpg",
+    "email": "olivia.wunsche@ecal.ch"
+  },
+  {
+    "name": "Yayla Kerime",
+    "img": "YAYLAKERIME.jpg",
+    "email": "kerime.yayla@ecal.ch"
+  },
+  {
+    "name": "Yoon Ilseop",
+    "img": "YoonIlseop.jpg",
+    "email": "ilseop.yoon@ecal.ch"
+  },
+  {
+    "name": "Yoon Mingoo",
+    "img": "?",
+    "email": "mingoo.yoon@ecal.ch"
+  },
+  {
+    "name": "Young Kieran",
+    "img": "YoungKieran.jpg",
+    "email": "kieran.young@ecal.ch"
+  },
+  {
+    "name": "Zeromska Aleksandra",
+    "img": "ZeromskaAleksandra.jpg",
+    "email": "aleksandra.zeromska@ecal.ch"
+  },
+  {
+    "name": "Zibaut Anouk",
+    "img": "ZibautAnouk.jpg",
+    "email": "anouk.zibaut@ecal.ch"
+  },
+  {
+    "name": "d&apos;Armand de Chateauvieux Thibault",
+    "img": "dArmanddeChateauvieuxThibault.jpg",
+    "email": "thibault.de_chateauvieux@ecal.ch"
+  },
+  {
+    "name": "d&apos;Ogny Clémence",
+    "img": "dOgnyClémence.jpg",
+    "email": "clemence.dogny@etu.hesge.ch"
+  },
+  {
+    "name": "de Jesus Danaë",
+    "img": "deJesusDanae.jpg",
+    "email": "danae.de_jesus@ecal.ch"
+  },
+  {
+    "name": "de Juan Alma",
+    "img": "deJuanAlma.jpg",
+    "email": "alma.de_juan@ecal.ch"
+  },
+  {
+    "name": "de Lapaillone Ernest",
+    "img": "deLapailloneErnest.jpg",
+    "email": "ernest.de_lapaillone@ecal.ch"
+  },
+  {
+    "name": "de Martino Lise",
+    "img": "deMartinoLise.jpg",
+    "email": "lise.de_martino@ecal.ch"
+  },
+  {
+    "name": "de Preux Dimitri",
+    "img": "DePreuxDimitri.jpg",
+    "email": "dimitri.depreux@ecal.ch"
+  },
+  {
+    "name": "de Saint-Exupéry Marin",
+    "img": "deSaintExuperyMarin.jpg",
+    "email": "marin.de_saint-exupery@ecal.ch"
+  },
+  {
+    "name": "de Watteville Romane",
+    "img": "deWattevilleRomane.jpg",
+    "email": "romane.de_watteville@ecal.ch"
+  },
+  {
+    "name": "el-Hindi Nadia",
+    "img": "elHindiNadia.jpg",
+    "email": "nadia.el-hindi@ecal.ch"
+  }
+]
